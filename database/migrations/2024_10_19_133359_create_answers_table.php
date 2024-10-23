@@ -13,6 +13,12 @@ return new class extends Migration
     {
         Schema::create('answers', function (Blueprint $table) {
             $table->id();
+            $table->foreignId('question_id')->constrained()->onDelete('cascade'); 
+            $table->string('answer_text_de')->nullable();
+            $table->string('answer_text_en')->nullable();
+            $table->string('answer_text_dari')->nullable();
+            $table->string('answer_text_pashto')->nullable();
+            $table->boolean('is_correct')->default(0);
             $table->timestamps();
         });
     }

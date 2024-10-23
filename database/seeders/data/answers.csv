@@ -1,0 +1,1841 @@
+id,question_id,answer_text_de,answer_text_en,answer_text_dari,answer_text_pashto,is_correct
+1,1,hier Religionsfreiheit gilt.,,,,0
+2,1,die Menschen Steuern zahlen.,,,,0
+3,1,die Menschen das Wahlrecht haben.,,,,0
+4,1,hier Meinungsfreiheit gilt.,,,,1
+5,2,Geschichtsunterricht teilnimmt.,,,,0
+6,2,Religionsunterricht teilnimmt.,,,,1
+7,2,Politikunterricht teilnimmt.,,,,0
+8,2,Sprachunterricht teilnimmt.,,,,0
+9,3,Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze halten.,,,,1
+10,3,Der Staat muss sich nicht an die Gesetze halten.,,,,0
+11,3,Nur Deutsche müssen die Gesetze befolgen.,,,,0
+12,3,Die Gerichte machen die Gesetze.,,,,0
+13,4,Waffenbesitz,,,,0
+14,4,Faustrecht,,,,0
+15,4,Meinungsfreiheit,,,,1
+16,4,Selbstjustiz,,,,0
+17,5,"Man darf Geld annehmen, wenn man dafür eine bestimmte Kandidatin/einen bestimmten Kandidaten wählt.",,,,0
+18,5,"Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",,,,0
+19,5,Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.,,,,1
+20,5,Alle wahlberechtigten Personen müssen wählen.,,,,0
+21,6,Volksgesetz,,,,0
+22,6,Bundesgesetz,,,,0
+23,6,Deutsches Gesetz,,,,0
+24,6,Grundgesetz,,,,1
+25,7,Glaubens- und Gewissensfreiheit,,,,1
+26,7,Unterhaltung,,,,0
+27,7,Arbeit,,,,0
+28,7,Wohnung,,,,0
+29,8,Die Würde des Menschen ist unantastbar.,,,,0
+30,8,Alle sollen gleich viel Geld haben.,,,,1
+31,8,Jeder Mensch darf seine Meinung sagen.,,,,0
+32,8,Alle sind vor dem Gesetz gleich.,,,,0
+33,9,Schutz der Familie,,,,0
+34,9,Menschenwürde,,,,0
+35,9,Asyl,,,,1
+36,9,Meinungsfreiheit,,,,0
+37,10,die Prügelstrafe,,,,0
+38,10,die Folter,,,,0
+39,10,die Todesstrafe,,,,0
+40,10,die Geldstrafe,,,,1
+41,11,Grundgesetz,,,,1
+42,11,Bundesverfassung,,,,0
+43,11,Gesetzbuch,,,,0
+44,11,Verfassungsvertrag,,,,0
+45,12,"Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.",,,,0
+46,12,"Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.",,,,0
+47,12,"Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",,,,1
+48,12,"Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen.",,,,0
+49,13,die regierenden Parteien.,,,,0
+50,13,die Fraktion mit den meisten Abgeordneten.,,,,0
+51,13,"alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.",,,,0
+52,13,"alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",,,,1
+53,14,Passanten auf der Straße beschimpfen darf.,,,,0
+54,14,meine Meinung in Leserbriefen äußern kann.,,,,1
+55,14,"Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf.",,,,0
+56,14,"meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche.",,,,0
+57,15,Militärdienst,,,,0
+58,15,Zwangsarbeit,,,,1
+59,15,freie Berufswahl,,,,0
+60,15,Arbeit im Ausland,,,,0
+61,16,bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen,,,,1
+62,16,bei Meinungsäußerungen über die Bundesregierung,,,,0
+63,16,bei Diskussionen über Religionen,,,,0
+64,16,bei Kritik am Staat,,,,0
+65,17,Meinungsfreiheit der Einwohnerinnen und Einwohner.,,,,0
+66,17,Petitionen der Bürgerinnen und Bürger.,,,,0
+67,17,Versammlungsfreiheit der Einwohnerinnen und Einwohner.,,,,0
+68,17,Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat.,,,,1
+69,18,die Unantastbarkeit der Menschenwürde,,,,1
+70,18,das Recht auf Leben,,,,0
+71,18,Religionsfreiheit,,,,0
+72,18,Meinungsfreiheit,,,,0
+73,19,Man darf sich seinen Wohnort selbst aussuchen.,,,,1
+74,19,Man kann seinen Beruf wechseln.,,,,0
+75,19,Man darf sich für eine andere Religion entscheiden.,,,,0
+76,19,Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen.,,,,0
+77,20,tolerant.,,,,0
+78,20,rechtsstaatlich orientiert.,,,,0
+79,20,gesetzestreu.,,,,0
+80,20,verfassungswidrig.,,,,1
+81,21,Bild 1,,,,1
+82,21,Bild 2,,,,0
+83,21,Bild 3,,,,0
+84,21,Bild 4,,,,0
+85,22,Monarchie,,,,0
+86,22,Diktatur,,,,0
+87,22,Republik,,,,1
+88,22,Fürstentum,,,,0
+89,23,in kleinen Familienunternehmen beschäftigt.,,,,0
+90,23,ehrenamtlich für ein Bundesland tätig.,,,,0
+91,23,selbstständig mit einer eigenen Firma tätig.,,,,0
+92,23,bei einer Firma oder Behörde beschäftigt.,,,,1
+93,24,14,,,,0
+94,24,15,,,,0
+95,24,16,,,,1
+96,24,17,,,,0
+97,25,Elsass-Lothringen,,,,1
+98,25,Nordrhein-Westfalen,,,,0
+99,25,Mecklenburg-Vorpommern,,,,0
+100,25,Sachsen-Anhalt,,,,0
+101,26,eine kommunistische Republik.,,,,0
+102,26,ein demokratischer und sozialer Bundesstaat.,,,,1
+103,26,eine kapitalistische und soziale Monarchie.,,,,0
+104,26,ein sozialer und sozialistischer Bundesstaat.,,,,0
+105,27,ein sozialistischer Staat.,,,,0
+106,27,ein Bundesstaat.,,,,1
+107,27,eine Diktatur.,,,,0
+108,27,eine Monarchie.,,,,0
+109,28,das Militär,,,,0
+110,28,die Wirtschaft,,,,0
+111,28,das wahlberechtigte Volk,,,,1
+112,28,die Verwaltung,,,,0
+113,29,Löwe,,,,0
+114,29,Adler,,,,1
+115,29,Bär,,,,0
+116,29,Pferd,,,,0
+117,30,regelmäßige Wahlen,,,,0
+118,30,Pressezensur,,,,1
+119,30,Meinungsfreiheit,,,,0
+120,30,verschiedene Parteien,,,,0
+121,31,Einheit.,,,,0
+122,31,Koalition.,,,,1
+123,31,Ministerium.,,,,0
+124,31,Fraktion.,,,,0
+125,32,Gesetzgebung,,,,0
+126,32,Regierung,,,,0
+127,32,Presse,,,,1
+128,32,Rechtsprechung,,,,0
+129,33,sind Staat und Religionsgemeinschaften voneinander getrennt.,,,,1
+130,33,bilden die Religionsgemeinschaften den Staat.,,,,0
+131,33,ist der Staat abhängig von den Religionsgemeinschaften.,,,,0
+132,33,bilden Staat und Religionsgemeinschaften eine Einheit.,,,,0
+133,34,eine Demokratie,,,,0
+134,34,ein Rechtsstaat,,,,0
+135,34,eine Monarchie,,,,1
+136,34,ein Sozialstaat,,,,0
+137,35,Kirchensteuer,,,,0
+138,35,Sozialabgaben,,,,1
+139,35,Spendengeldern,,,,0
+140,35,Vereinsbeiträgen,,,,0
+141,36,die Krankenversicherung,,,,1
+142,36,die Autoversicherung,,,,0
+143,36,die Gebäudeversicherung,,,,0
+144,36,die Haftpflichtversicherung,,,,0
+145,37,Erste Ministerin/Erster Minister,,,,0
+146,37,Premierministerin/Premierminister,,,,0
+147,37,Senatorin/Senator,,,,0
+148,37,Ministerpräsidentin/Ministerpräsident,,,,1
+149,38,Staatenverbund.,,,,0
+150,38,Bundesstaat.,,,,1
+151,38,Staatenbund.,,,,0
+152,38,Zentralstaat.,,,,0
+153,39,eine eigene Außenministerin/einen eigenen Außenminister,,,,0
+154,39,eine eigene Währung,,,,0
+155,39,eine eigene Armee,,,,0
+156,39,eine eigene Regierung,,,,1
+157,40,"Völker, hört die Signale …",,,,0
+158,40,Einigkeit und Recht und Freiheit …,,,,1
+159,40,Freude schöner Götterfunken …,,,,0
+160,40,Deutschland einig Vaterland …,,,,0
+161,41,weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden,,,,1
+162,41,damit Bestechung in der Politik begrenzt wird,,,,0
+163,41,um politische Demonstrationen zu verhindern,,,,0
+164,41,um wirtschaftlichen Wettbewerb anzuregen,,,,0
+165,42,die Regierung,,,,0
+166,42,das Parlament,,,,1
+167,42,die Gerichte,,,,0
+168,42,die Polizei,,,,0
+169,43,wenn ihr Wahlkampf zu teuer ist,,,,0
+170,43,wenn sie gegen die Verfassung kämpft,,,,1
+171,43,wenn sie Kritik am Staatsoberhaupt äußert,,,,0
+172,43,wenn ihr Programm eine neue Richtung vorschlägt,,,,0
+173,44,Abgeordnete des EU-Parlaments,,,,0
+174,44,Die Bundespräsidentin/den Bundespräsidenten,,,,1
+175,44,Landtagsabgeordnete,,,,0
+176,44,Bundestagsabgeordnete,,,,0
+177,45,Sozialversicherung,,,,1
+178,45,Unfallversicherung,,,,0
+179,45,Hausratsversicherung,,,,0
+180,45,Haftpflicht- und Feuerversicherung,,,,0
+181,46,Er baut Straßen und Schulen.,,,,1
+182,46,Er verkauft Lebensmittel und Kleidung.,,,,0
+183,46,Er versorgt alle Einwohnerinnen und Einwohner kostenlos mit Zeitungen.,,,,0
+184,46,Er produziert Autos und Busse.,,,,0
+185,47,Er bezahlt für alle Staatsangehörigen Urlaubsreisen.,,,,1
+186,47,Er zahlt Kindergeld.,,,,0
+187,47,Er unterstützt Museen.,,,,0
+188,47,Er fördert Sportlerinnen und Sportler.,,,,0
+189,48,der Bundesrat,,,,0
+190,48,die Bundespräsidentin/der Bundespräsident,,,,0
+191,48,die Bürgerversammlung,,,,1
+192,48,die Regierung,,,,0
+193,49,die Lehrer und Lehrerinnen,,,,0
+194,49,die Bundesländer,,,,1
+195,49,das Familienministerium,,,,0
+196,49,die Universitäten,,,,0
+197,50,freie Zentralwirtschaft.,,,,0
+198,50,soziale Marktwirtschaft.,,,,1
+199,50,gelenkte Zentralwirtschaft.,,,,0
+200,50,Planwirtschaft.,,,,0
+201,51,Menschen sich kritisch über die Regierung äußern können.,,,,0
+202,51,Bürger friedlich demonstrieren gehen dürfen.,,,,0
+203,51,Menschen von einer Privatpolizei ohne Grund verhaftet werden.,,,,1
+204,51,jemand ein Verbrechen begeht und deshalb verhaftet wird.,,,,0
+205,52,Volke aus.,,,,1
+206,52,Bundestag aus.,,,,0
+207,52,preußischen König aus.,,,,0
+208,52,Bundesverfassungsgericht aus.,,,,0
+209,53,Der Staat hat Recht.,,,,0
+210,53,Es gibt nur rechte Parteien.,,,,0
+211,53,Die Bürgerinnen und Bürger entscheiden über Gesetze.,,,,0
+212,53,Der Staat muss die Gesetze einhalten.,,,,1
+213,54,Legislative,,,,0
+214,54,Judikative,,,,0
+215,54,Exekutive,,,,0
+216,54,Direktive,,,,1
+217,55,den Bundestagssitz in Berlin,,,,1
+218,55,das Bundesverfassungsgericht in Karlsruhe,,,,0
+219,55,das Bundesratsgebäude in Berlin,,,,0
+220,55,das Bundeskanzleramt in Berlin,,,,0
+221,56,Pfarramt,,,,0
+222,56,Ordnungsamt,,,,1
+223,56,Finanzamt,,,,0
+224,56,Auswärtiges Amt,,,,0
+225,57,die/der älteste Abgeordnete im Parlament,,,,0
+226,57,die Ministerpräsidentin/der Ministerpräsident des größten Bundeslandes,,,,0
+227,57,eine ehemalige Bundeskanzlerin/ein ehemaliger Bundeskanzler,,,,0
+228,57,eine Abgeordnete/ein Abgeordneter der stärksten Fraktion,,,,1
+229,58,die Präsidentin/der Präsident des Bundesverfassungsgerichtes,,,,0
+230,58,die Bundespräsidentin/der Bundespräsident,,,,1
+231,58,die Bundesratspräsidentin/der Bundesratspräsident,,,,0
+232,58,die Bundestagspräsidentin/der Bundestagspräsident,,,,0
+233,59,vor etwa 300 Jahren,,,,0
+234,59,vor etwa 700 Jahren,,,,0
+235,59,vor etwa 1150 Jahren,,,,0
+236,59,vor etwa 1700 Jahren,,,,1
+237,60,Exekutive.,,,,0
+238,60,Legislative.,,,,1
+239,60,Direktive.,,,,0
+240,60,Judikative.,,,,0
+241,61,Die Königin/der König herrscht über das Volk.,,,,0
+242,61,Das Bundesverfassungsgericht steht über der Verfassung.,,,,0
+243,61,Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.,,,,0
+244,61,Die Staatsgewalt geht vom Volke aus.,,,,1
+245,62,Kommunalwahl,,,,0
+246,62,Landtagswahl,,,,1
+247,62,Europawahl,,,,0
+248,62,Bundestagswahl,,,,0
+249,63,die Polizei,,,,0
+250,63,die Gerichte,,,,1
+251,63,das Finanzamt,,,,0
+252,63,die Ministerien,,,,0
+253,64,vier Besatzungszonen.,,,,0
+254,64,einen Oststaat und einen Weststaat.,,,,0
+255,64,16 Kantone.,,,,0
+256,64,"Bund, Länder und Kommunen.",,,,1
+257,65,Gesetze zu entwerfen.,,,,0
+258,65,die Bundesregierung zu kontrollieren.,,,,0
+259,65,die Bundeskanzlerin/den Bundeskanzler zu wählen.,,,,0
+260,65,das Bundeskabinett zu bilden.,,,,1
+261,66,Berlin und München,,,,1
+262,66,Hamburg und Essen,,,,0
+263,66,Nürnberg und Stuttgart,,,,0
+264,66,Worms und Speyer,,,,0
+265,67,Verteidigungspolitik,,,,0
+266,67,Außenpolitik,,,,0
+267,67,Wirtschaftspolitik,,,,0
+268,67,Schulpolitik,,,,1
+269,68,weil es in Deutschland nur staatliche Schulen gibt,,,,0
+270,68,weil alle Schülerinnen und Schüler einen Schulabschluss haben müssen,,,,0
+271,68,weil es in den Bundesländern verschiedene Schulen gibt,,,,0
+272,68,weil es nach dem Grundgesetz seine Aufgabe ist,,,,1
+273,69,Stadträte,,,,0
+274,69,Landräte,,,,0
+275,69,Gemeinden,,,,1
+276,69,Bezirksämter,,,,0
+277,70,Sie/Er führt die Regierungsgeschäfte.,,,,0
+278,70,Sie/Er kontrolliert die Regierungspartei.,,,,0
+279,70,Sie/Er wählt die Ministerinnen/Minister aus.,,,,0
+280,70,Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor.,,,,1
+281,71,"in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",,,,0
+282,71,"auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",,,,0
+283,71,"auf Schloss Bellevue, dem Amtssitz der Bundespräsidentin/des Bundespräsidenten, um Staatsgäste zu empfangen.",,,,0
+284,71,"in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",,,,1
+285,72,Gerhard Schröder,,,,0
+286,72,Angela Merkel,,,,0
+287,72,Franziska Giffey,,,,0
+288,72,Olaf Scholz,,,,1
+289,73,CDU/CSU und SPD.,,,,1
+290,73,Die Linke und Bündnis 90/Die Grünen.,,,,0
+291,73,FDP und SPD.,,,,0
+292,73,Die Linke und FDP.,,,,0
+293,74,Bundesversammlung,,,,0
+294,74,Volkskammer,,,,0
+295,74,Bundestag,,,,1
+296,74,Bundesgerichtshof,,,,0
+297,75,Frank-Walter Steinmeier,,,,1
+298,75,Bärbel Bas,,,,0
+299,75,Bodo Ramelow,,,,0
+300,75,Joachim Gauck,,,,0
+301,76,Christliche Deutsche Union,,,,0
+302,76,Club Deutscher Unternehmer,,,,0
+303,76,Christlicher Deutscher Umweltschutz,,,,0
+304,76,Christlich Demokratische Union,,,,1
+305,77,die deutsche Polizei,,,,0
+306,77,ein deutscher Hafen,,,,0
+307,77,eine deutsche Bürgerinitiative,,,,0
+308,77,die deutsche Armee,,,,1
+309,78,Sozialistische Partei Deutschlands,,,,0
+310,78,Sozialpolitische Partei Deutschlands,,,,0
+311,78,Sozialdemokratische Partei Deutschlands,,,,1
+312,78,Sozialgerechte Partei Deutschlands,,,,0
+313,79,Friedliche Demonstrative Partei,,,,0
+314,79,Freie Deutschland Partei,,,,0
+315,79,Führende Demokratische Partei,,,,0
+316,79,Freie Demokratische Partei,,,,1
+317,80,Oberlandesgericht,,,,0
+318,80,Amtsgericht,,,,0
+319,80,Bundesverfassungsgericht,,,,1
+320,80,Verwaltungsgericht,,,,0
+321,81,der Bundesrat,,,,0
+322,81,die Bundesversammlung,,,,0
+323,81,das Volk,,,,0
+324,81,der Bundestag,,,,1
+325,82,die Bundestagspräsidentin/der Bundestagspräsident,,,,0
+326,82,die Bundespräsidentin/der Bundespräsident,,,,0
+327,82,die Bundesratspräsidentin/der Bundesratspräsident,,,,0
+328,82,die Bundeskanzlerin/der Bundeskanzler,,,,1
+329,83,das Volk,,,,0
+330,83,die Bundesversammlung,,,,0
+331,83,der Bundestag,,,,1
+332,83,die Bundesregierung,,,,0
+333,84,regiert das Land.,,,,0
+334,84,entwirft die Gesetze.,,,,0
+335,84,repräsentiert das Land.,,,,1
+336,84,überwacht die Einhaltung der Gesetze.,,,,0
+337,85,die Abgeordneten des Bundestages,,,,0
+338,85,die Ministerinnen und Minister der Bundesregierung,,,,0
+339,85,die Regierungsvertreter der Bundesländer,,,,1
+340,85,die Parteimitglieder,,,,0
+341,86,die Bundesversammlung,,,,1
+342,86,der Bundesrat,,,,0
+343,86,das Bundesparlament,,,,0
+344,86,das Bundesverfassungsgericht,,,,0
+345,87,die Bundeskanzlerin/der Bundeskanzler,,,,0
+346,87,die Bundespräsidentin/der Bundespräsident,,,,1
+347,87,die Bundesratspräsidentin/der Bundesratspräsident,,,,0
+348,87,die Bundestagspräsidentin/der Bundestagspräsident,,,,0
+349,88,kontrolliert die Regierung.,,,,1
+350,88,"entscheidet, wer Bundesministerin/Bundesminister wird.",,,,0
+351,88,"bestimmt, wer im Bundesrat sitzt.",,,,0
+352,88,schlägt die Regierungschefinnen/Regierungschefs der Länder vor.,,,,0
+353,89,Verband,,,,0
+354,89,Ältestenrat,,,,0
+355,89,Fraktion,,,,1
+356,89,Opposition,,,,0
+357,90,den Bundesrat.,,,,1
+358,90,die Bundesversammlung.,,,,0
+359,90,den Bundestag.,,,,0
+360,90,die Bundesregierung.,,,,0
+361,91,"schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",,,,0
+362,91,"leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",,,,0
+363,91,"schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",,,,1
+364,91,"leichter, wenn es sich um ein reiches Bundesland handelt.",,,,0
+365,92,Christlich Sichere Union,,,,0
+366,92,Christlich Süddeutsche Union,,,,0
+367,92,Christlich Sozialer Unternehmerverband,,,,0
+368,92,Christlich Soziale Union,,,,1
+369,93,weniger Erststimmen kann sie haben.,,,,0
+370,93,mehr Direktkandidaten der Partei ziehen ins Parlament ein.,,,,0
+371,93,"größer ist das Risiko, eine Koalition bilden zu müssen.",,,,0
+372,93,mehr Sitze erhält die Partei im Parlament.,,,,1
+373,94,16,,,,0
+374,94,18,,,,1
+375,94,21,,,,0
+376,94,23,,,,0
+377,95,Wahlpflicht,,,,0
+378,95,Schulpflicht,,,,1
+379,95,Schweigepflicht,,,,0
+380,95,Religionspflicht,,,,0
+381,96,Kürzung sozialer Leistungen,,,,0
+382,96,bis zu 100 Sozialstunden,,,,0
+383,96,"gar nicht, Holocaustleugnung ist erlaubt",,,,0
+384,96,mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe,,,,1
+385,97,Sozialversicherung,,,,1
+386,97,Sozialhilfe,,,,0
+387,97,Kindergeld,,,,0
+388,97,Wohngeld,,,,0
+389,98,dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.,,,,0
+390,98,kann die Regierung ihre Mehrheit verlieren.,,,,1
+391,98,muss die Bundespräsidentin/der Bundespräsident zuvor ihr/sein Einverständnis geben.,,,,0
+392,98,dürfen die Wählerinnen/Wähler dieser Abgeordneten noch einmal wählen.,,,,0
+393,99,Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer,,,,1
+394,99,nur Arbeitnehmerinnen/Arbeitnehmer,,,,0
+395,99,alle Staatsangehörigen,,,,0
+396,99,nur Arbeitgeberinnen/Arbeitgeber,,,,0
+397,100,die Lebensversicherung,,,,1
+398,100,die gesetzliche Rentenversicherung,,,,0
+399,100,die Arbeitslosenversicherung,,,,0
+400,100,die Pflegeversicherung,,,,0
+401,101,Jugendlichen.,,,,0
+402,101,Arbeitnehmerinnen und Arbeitnehmer.,,,,1
+403,101,Rentnerinnen und Rentner.,,,,0
+404,101,Arbeitgeberinnen und Arbeitgeber.,,,,0
+405,102,Bundesverdienstkreuz,,,,1
+406,102,Bundesadler,,,,0
+407,102,Vaterländischen Verdienstorden,,,,0
+408,102,"Ehrentitel ""Held der Deutschen Demokratischen Republik""",,,,0
+409,103,der Bundestagsfraktionen von CDU und CSU,,,,0
+410,103,"von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",,,,1
+411,103,"von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",,,,0
+412,103,der Bundestagsfraktionen von CDU und SPD,,,,0
+413,104,Die Frau ist lange krank und arbeitsunfähig.,,,,0
+414,104,Die Frau kam oft zu spät zur Arbeit.,,,,0
+415,104,Die Frau erledigt private Sachen während der Arbeitszeit.,,,,0
+416,104,Die Frau bekommt ein Kind und ihr Chef weiß das.,,,,1
+417,105,Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.,,,,0
+418,105,Sie schreiben die Wahlbenachrichtigungen vor der Wahl.,,,,0
+419,105,Sie geben Zwischenergebnisse an die Medien weiter.,,,,0
+420,105,Sie zählen die Stimmen nach dem Ende der Wahl.,,,,1
+421,106,Sie helfen Kindern und alten Menschen beim Wählen.,,,,0
+422,106,Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.,,,,0
+423,106,Sie geben Zwischenergebnisse an Journalisten weiter.,,,,0
+424,106,Sie zählen die Stimmen nach dem Ende der Wahl.,,,,1
+425,107,2 Jahre,,,,0
+426,107,4 Jahre,,,,1
+427,107,6 Jahre,,,,0
+428,107,8 Jahre,,,,0
+429,108,in der Bundesrepublik Deutschland wohnt und wählen möchte.,,,,0
+430,108,Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.,,,,1
+431,108,seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.,,,,0
+432,108,Bürgerin/Bürger der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.,,,,0
+433,109,alle drei Jahre,,,,0
+434,109,alle vier Jahre,,,,1
+435,109,alle fünf Jahre,,,,0
+436,109,alle sechs Jahre,,,,0
+437,110,2 Jahre,,,,0
+438,110,3 Jahre,,,,0
+439,110,4 Jahre,,,,1
+440,110,5 Jahre,,,,0
+441,111,die Politik Israels öffentlich kritisieren,,,,0
+442,111,das Aufhängen einer israelischen Flagge auf dem Privatgrundstück,,,,0
+443,111,eine Diskussion über die Politik Israels,,,,0
+444,111,der öffentliche Aufruf zur Vernichtung Israels,,,,1
+445,112,speziell.,,,,0
+446,112,geheim.,,,,1
+447,112,berufsbezogen.,,,,0
+448,112,geschlechtsabhängig.,,,,0
+449,113,die meisten Stimmen bekommt.,,,,1
+450,113,die meisten Männer mehrheitlich gewählt haben.,,,,0
+451,113,die meisten Stimmen bei den Arbeiterinnen/Arbeitern bekommen hat.,,,,0
+452,113,die meisten Erststimmen für ihre Kanzlerkandidatin/ihren Kanzlerkandidaten erhalten hat.,,,,0
+453,114,eine Pflicht.,,,,0
+454,114,ein Recht.,,,,1
+455,114,ein Zwang.,,,,0
+456,114,eine Last.,,,,0
+457,115,Man kann gewählt werden.,,,,0
+458,115,Man muss wählen gehen.,,,,0
+459,115,Man kann wählen.,,,,1
+460,115,Man muss zur Auszählung der Stimmen gehen.,,,,0
+461,116,aktive Wahlkampagne.,,,,0
+462,116,aktives Wahlverfahren.,,,,0
+463,116,aktiver Wahlkampf.,,,,0
+464,116,aktives Wahlrecht.,,,,1
+465,117,3%,,,,0
+466,117,4%,,,,0
+467,117,5%,,,,1
+468,117,6%,,,,0
+469,118,nur Deutsche,,,,0
+470,118,nur Israelis,,,,0
+471,118,nur religiöse Menschen,,,,0
+472,118,alle Menschen,,,,1
+473,119,Alle verurteilten Straftäterinnen/Straftäter dürfen nicht wählen.,,,,0
+474,119,"Wenn ich wählen gehen möchte, muss meine Arbeitgeberin/mein Arbeitgeber mir frei geben.",,,,0
+475,119,"Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",,,,1
+476,119,"Ich kann frei entscheiden, wo ich wählen gehen möchte.",,,,0
+477,120,Zensuswahlrecht.,,,,0
+478,120,Dreiklassenwahlrecht.,,,,0
+479,120,Mehrheits- und Verhältniswahlrecht.,,,,1
+480,120,allgemeines Männerwahlrecht.,,,,0
+481,121,5%-Hürde.,,,,1
+482,121,Zulassungsgrenze.,,,,0
+483,121,Basiswert.,,,,0
+484,121,Richtlinie.,,,,0
+485,122,"frei, gleich, geheim.",,,,1
+486,122,"offen, sicher, frei.",,,,0
+487,122,"geschlossen, gleich, sicher.",,,,0
+488,122,"sicher, offen, freiwillig.",,,,0
+489,123,Abstimmungsregelung im Bundestag für kleine Parteien,,,,0
+490,123,Anwesenheitskontrolle im Bundestag für Abstimmungen,,,,0
+491,123,"Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",,,,1
+492,123,Anwesenheitskontrolle im Bundesrat für Abstimmungen,,,,0
+493,124,der Bundeskanzlerin/des Bundeskanzlers.,,,,0
+494,124,der Parlamente der Länder.,,,,0
+495,124,des Parlaments für Deutschland.,,,,1
+496,124,der Bundespräsidentin/des Bundespräsidenten.,,,,0
+497,125,"die Bürgerinnen und Bürger zu zwingen, ihre Stimme abzugeben.",,,,0
+498,125,nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.,,,,1
+499,125,im Land bestehende Gesetze beizubehalten.,,,,0
+500,125,den Armen mehr Macht zu geben.,,,,0
+501,126,eine Wahlbenachrichtigung von der Gemeinde,,,,1
+502,126,eine Wahlerlaubnis von der Bundespräsidentin/von dem Bundespräsidenten,,,,0
+503,126,eine Benachrichtigung von der Bundesversammlung,,,,0
+504,126,eine Benachrichtigung vom Pfarramt,,,,0
+505,127,die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.,,,,0
+506,127,die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung verlieren können.,,,,0
+507,127,viele kleine Parteien die Regierungsbildung erschweren.,,,,1
+508,127,"die kleinen Parteien nicht so viel Geld haben, um die Politikerinnen und Politiker zu bezahlen.",,,,0
+509,128,Abgeordnete.,,,,1
+510,128,Kanzlerinnen/Kanzler.,,,,0
+511,128,Botschafterinnen/Botschafter.,,,,0
+512,128,Ministerpräsidentinnen/Ministerpräsidenten.,,,,0
+513,129,die Bundeskanzlerin/der Bundeskanzler.,,,,0
+514,129,die Ministerpräsidentin/der Ministerpräsident eines Bundeslandes.,,,,0
+515,129,der Bundestag.,,,,1
+516,129,die Bundespräsidentin/der Bundespräsident.,,,,0
+517,130,1,,,,1
+518,130,2,,,,0
+519,130,3,,,,0
+520,130,4,,,,0
+521,131,die Leiterin/der Leiter einer Schule.,,,,0
+522,131,die Chefin/der Chef einer Bank.,,,,0
+523,131,das Oberhaupt einer Gemeinde.,,,,1
+524,131,die/der Vorsitzende einer Partei.,,,,0
+525,132,Sie arbeiten als Soldatinnen/Soldaten.,,,,0
+526,132,Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.,,,,1
+527,132,Sie arbeiten in der Bundesregierung.,,,,0
+528,132,Sie arbeiten in einem Krankenhaus und verdienen dabei Geld.,,,,0
+529,133,Der Ehemann wählt für seine Frau mit.,,,,0
+530,133,Man kann durch Briefwahl seine Stimme abgeben.,,,,1
+531,133,Man kann am Wahltag telefonisch seine Stimme abgeben.,,,,0
+532,133,Kinder ab dem Alter von 14 Jahren dürfen wählen.,,,,0
+533,134,Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.,,,,1
+534,134,Ich werde Mitglied in einem Sportverein und trainiere Radfahren.,,,,0
+535,134,"Ich wende mich an das Finanzamt, weil ich als Steuerzahlerin/Steuerzahler ein Recht auf die Buslinie habe.",,,,0
+536,134,Ich schreibe einen Brief an das Forstamt der Gemeinde.,,,,0
+537,135,große Unternehmen,,,,0
+538,135,kleine Unternehmen,,,,0
+539,135,Selbstständige,,,,0
+540,135,Arbeitnehmerinnen und Arbeitnehmer,,,,1
+541,136,falscher Nebenkostenabrechnung.,,,,0
+542,136,ungerechtfertigter Kündigung durch Ihre Chefin/Ihren Chef.,,,,1
+543,136,Problemen mit den Nachbarinnen/Nachbarn.,,,,0
+544,136,Schwierigkeiten nach einem Verkehrsunfall.,,,,0
+545,137,das Familiengericht,,,,0
+546,137,das Strafgericht,,,,0
+547,137,das Arbeitsgericht,,,,1
+548,137,das Amtsgericht,,,,0
+549,138,weiterarbeiten und freundlich zur Chefin/zum Chef sein,,,,0
+550,138,ein Mahnverfahren gegen die Arbeitgeberin/den Arbeitgeber führen,,,,0
+551,138,Kündigungsschutzklage erheben,,,,1
+552,138,die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen,,,,0
+553,139,zu einer anderen Religion übertritt.,,,,0
+554,139,eine Straftat begangen hat und angeklagt wird.,,,,1
+555,139,eine andere Meinung als die der Regierung vertritt.,,,,0
+556,139,sein Auto falsch geparkt hat und es abgeschleppt wird.,,,,0
+557,140,entscheidet mit Richterinnen/Richtern über Schuld und Strafe.,,,,1
+558,140,gibt Bürgerinnen/Bürgern rechtlichen Rat.,,,,0
+559,140,stellt Urkunden aus.,,,,0
+560,140,verteidigt die Angeklagte/den Angeklagten.,,,,0
+561,141,eine Rechtsanwältin/ein Rechtsanwalt,,,,1
+562,141,eine Richterin/ein Richter,,,,0
+563,141,eine Schöffin/ein Schöffe,,,,0
+564,141,eine Staatsanwältin/ein Staatsanwalt,,,,0
+565,142,vertritt Bürgerinnen und Bürger vor einem Gericht.,,,,0
+566,142,arbeitet an einem Gericht und spricht Urteile.,,,,1
+567,142,ändert Gesetze.,,,,0
+568,142,betreut Jugendliche vor Gericht.,,,,0
+569,143,Judikative.,,,,1
+570,143,Exekutive.,,,,0
+571,143,Operative.,,,,0
+572,143,Legislative.,,,,0
+573,144,vollziehenden Gewalt.,,,,0
+574,144,rechtsprechenden Gewalt.,,,,1
+575,144,planenden Gewalt.,,,,0
+576,144,gesetzgebenden Gewalt.,,,,0
+577,145,Judikative,,,,1
+578,145,Exekutive,,,,0
+579,145,Presse,,,,0
+580,145,Legislative,,,,0
+581,146,Programm,,,,0
+582,146,Prozedur,,,,0
+583,146,Protokoll,,,,0
+584,146,Prozess,,,,1
+585,147,Deutschland regieren,,,,0
+586,147,Recht sprechen,,,,1
+587,147,Pläne erstellen,,,,0
+588,147,Gesetze erlassen,,,,0
+589,148,das Land zu verteidigen,,,,0
+590,148,die Bürgerinnen und Bürger abzuhören,,,,0
+591,148,die Gesetze zu beschließen,,,,0
+592,148,die Einhaltung von Gesetzen zu überwachen,,,,1
+593,149,ein jüdisches Fest besuchen,,,,0
+594,149,die israelische Regierung kritisieren,,,,0
+595,149,den Holocaust leugnen,,,,1
+596,149,gegen Juden Fußball spielen.,,,,0
+597,150,die Stellvertreterin/der Stellvertreter des Stadtoberhaupts.,,,,0
+598,150,eine ehrenamtliche Richterin/ein ehrenamtlicher Richter.,,,,1
+599,150,ein Mitglied eines Gemeinderats.,,,,0
+600,150,"eine Person, die Jura studiert hat.",,,,0
+601,151,Großbritannien,,,,0
+602,151,die DDR,,,,1
+603,151,die Bundesrepublik Deutschland,,,,0
+604,151,die USA,,,,0
+605,152,1918 bis 1923,,,,0
+606,152,1932 bis 1950,,,,0
+607,152,1933 bis 1945,,,,1
+608,152,1945 bis 1989,,,,0
+609,153,Tod Adolf Hitlers,,,,0
+610,153,Beginn des Berliner Mauerbaus,,,,0
+611,153,Wahl von Konrad Adenauer zum Bundeskanzler,,,,0
+612,153,Ende des Zweiten Weltkriegs in Europa,,,,1
+613,154,1933,,,,0
+614,154,1945,,,,1
+615,154,1949,,,,0
+616,154,1961,,,,0
+617,155,1888 bis 1918,,,,0
+618,155,1921 bis 1934,,,,0
+619,155,1933 bis 1945,,,,1
+620,155,1949 bis 1963,,,,0
+621,156,1923,,,,0
+622,156,1927,,,,0
+623,156,1933,,,,1
+624,156,1936,,,,0
+625,157,eine Diktatur.,,,,1
+626,157,einen demokratischen Staat.,,,,0
+627,157,eine Monarchie.,,,,0
+628,157,ein Fürstentum.,,,,0
+629,158,Diktatur.,,,,1
+630,158,Demokratie.,,,,0
+631,158,Monarchie.,,,,0
+632,158,Räterepublik.,,,,0
+633,159,freie Wahlen,,,,1
+634,159,Pressezensur,,,,0
+635,159,willkürliche Verhaftungen,,,,0
+636,159,Verfolgung von Juden,,,,0
+637,160,der Erste Weltkrieg,,,,0
+638,160,der Zweite Weltkrieg,,,,1
+639,160,der Vietnamkrieg,,,,0
+640,160,der Golfkrieg,,,,0
+641,161,des staatlichen Rassismus,,,,1
+642,161,der Meinungsfreiheit,,,,0
+643,161,der allgemeinen Religionsfreiheit,,,,0
+644,161,der Entwicklung der Demokratie,,,,0
+645,162,eine Goldmedaille bei den Olympischen Spielen 1936.,,,,0
+646,162,den Bau des Reichstagsgebäudes.,,,,0
+647,162,den Aufbau der Wehrmacht.,,,,0
+648,162,das Attentat auf Hitler am 20. Juli 1944.,,,,1
+649,163,1925,,,,0
+650,163,1930,,,,0
+651,163,1938,,,,1
+652,163,1945,,,,0
+653,164,Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.,,,,0
+654,164,Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.,,,,0
+655,164,Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.,,,,1
+656,164,Hitler wird Reichspräsident und lässt alle Parteien verbieten.,,,,0
+657,165,Konrad Adenauer,,,,1
+658,165,Kurt Georg Kiesinger,,,,0
+659,165,Helmut Schmidt,,,,0
+660,165,Willy Brandt,,,,0
+661,166,beim Arbeiteraufstand 1953 in der DDR,,,,0
+662,166,bei den Demonstrationen 1968 in der Bundesrepublik Deutschland,,,,0
+663,166,bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland,,,,0
+664,166,bei den Montagsdemonstrationen 1989 in der DDR,,,,1
+665,167,"Sowjetunion, Großbritannien, Polen, Schweden",,,,0
+666,167,"Frankreich, Sowjetunion, Italien, Japan",,,,0
+667,167,"USA, Sowjetunion, Spanien, Portugal",,,,0
+668,167,"USA, Sowjetunion, Großbritannien, Frankreich",,,,1
+669,168,USA,,,,0
+670,168,Sowjetunion,,,,0
+671,168,Frankreich,,,,0
+672,168,Japan,,,,1
+673,169,1939,,,,0
+674,169,1945,,,,0
+675,169,1949,,,,1
+676,169,1951,,,,0
+677,170,das Verbot von Parteien,,,,1
+678,170,das Recht zur freien Entfaltung der Persönlichkeit,,,,0
+679,170,Pressefreiheit,,,,0
+680,170,den Schutz der Menschenwürde,,,,0
+681,171,steuert sich allein nach Angebot und Nachfrage.,,,,0
+682,171,"wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",,,,0
+683,171,richtet sich nach der Nachfrage im Ausland.,,,,0
+684,171,"richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",,,,1
+685,172,amerikanischen Besatzungszone,,,,0
+686,172,französischen Besatzungszone,,,,0
+687,172,britischen Besatzungszone,,,,0
+688,172,sowjetischen Besatzungszone,,,,1
+689,173,des Nordatlantikpakts (NATO).,,,,0
+690,173,der Vereinten Nationen (VN).,,,,0
+691,173,der Europäischen Union (EU).,,,,1
+692,173,des Warschauer Pakts.,,,,0
+693,174,1947,,,,0
+694,174,1949,,,,1
+695,174,1953,,,,0
+696,174,1956,,,,0
+697,175,3,,,,0
+698,175,4,,,,1
+699,175,5,,,,0
+700,175,6,,,,0
+701,176,"1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",,,,0
+702,176,"1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",,,,0
+703,176,"1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",,,,1
+704,176,"1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich",,,,0
+705,177,München,,,,0
+706,177,Berlin,,,,1
+707,177,Dresden,,,,0
+708,177,Frankfurt/Oder,,,,0
+709,178,Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.,,,,0
+710,178,Die amerikanischen Soldatinnen und Soldaten hatten beim Landtransport Angst vor Überfällen.,,,,0
+711,178,Für Großbritannien war die Versorgung über die Luftbrücke schneller.,,,,0
+712,178,Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.,,,,1
+713,179,mit dem Tod Adolf Hitlers,,,,0
+714,179,durch die bedingungslose Kapitulation Deutschlands,,,,1
+715,179,mit dem Rückzug der Deutschen aus den besetzten Gebieten,,,,0
+716,179,durch eine Revolution in Deutschland,,,,0
+717,180,Ludwig Erhard.,,,,0
+718,180,Willy Brandt.,,,,0
+719,180,Konrad Adenauer.,,,,1
+720,180,Gerhard Schröder.,,,,0
+721,181,Er hat sich den ehemaligen Alliierten unterworfen.,,,,0
+722,181,Er bat Polen und die polnischen Juden um Vergebung.,,,,1
+723,181,Er zeigte seine Demut vor dem Warschauer Pakt.,,,,0
+724,181,Er sprach ein Gebet am Grab des Unbekannten Soldaten.,,,,0
+725,182,Basilika,,,,0
+726,182,Moschee,,,,0
+727,182,Synagoge,,,,1
+728,182,Kirche,,,,0
+729,183,40er Jahre,,,,0
+730,183,50er Jahre,,,,1
+731,183,70er Jahre,,,,0
+732,183,80er Jahre,,,,0
+733,184,eine Resolution der Vereinten Nationen,,,,1
+734,184,ein Beschluss des Zionistenkongresses,,,,0
+735,184,ein Vorschlag der Bundesregierung,,,,0
+736,184,ein Vorschlag der UdSSR,,,,0
+737,185,des Warschauer Pakts gegen den Westen,,,,1
+738,185,Norddeutschlands gegen Süddeutschland,,,,0
+739,185,Nazi-Deutschlands gegen die Alliierten,,,,0
+740,185,Europas gegen die USA,,,,0
+741,186,1. Mai,,,,0
+742,186,17. Juni,,,,1
+743,186,20. Juli,,,,0
+744,186,9. November.,,,,0
+745,187,Preußen,,,,0
+746,187,Bundesrepublik Deutschland,,,,0
+747,187,"""Drittes Reich""",,,,0
+748,187,DDR,,,,1
+749,188,1953,,,,0
+750,188,1956,,,,0
+751,188,1959,,,,0
+752,188,1961,,,,1
+753,189,1919,,,,0
+754,189,1933,,,,0
+755,189,1961,,,,1
+756,189,1990,,,,0
+757,190,Dritter Deutscher Rundfunk,,,,0
+758,190,Die Deutsche Republik,,,,0
+759,190,Dritte Deutsche Republik,,,,0
+760,190,Deutsche Demokratische Republik,,,,1
+761,191,1987,,,,0
+762,191,1989,,,,1
+763,191,1992,,,,0
+764,191,1995,,,,0
+765,192,Brandenburg,,,,1
+766,192,Bayern,,,,0
+767,192,Saarland,,,,0
+768,192,Hessen,,,,0
+769,193,ohne Bürgermeister.,,,,0
+770,193,ein eigener Staat.,,,,0
+771,193,durch eine Mauer geteilt.,,,,1
+772,193,nur mit dem Flugzeug erreichbar.,,,,0
+773,194,Einheit.,,,,1
+774,194,Nation.,,,,0
+775,194,Bundesländer.,,,,0
+776,194,Städte.,,,,0
+777,195,Hessen,,,,0
+778,195,Sachsen-Anhalt,,,,1
+779,195,Nordrhein-Westfalen,,,,0
+780,195,Saarland,,,,0
+781,196,von einer Diktatur zur Demokratie.,,,,1
+782,196,von einer liberalen Marktwirtschaft zum Sozialismus.,,,,0
+783,196,von einer Monarchie zur Sozialdemokratie.,,,,0
+784,196,von einem religiösen Staat zu einem kommunistischen Staat.,,,,0
+785,197,Thüringen,,,,1
+786,197,Hessen,,,,0
+787,197,Bayern,,,,0
+788,197,Bremen,,,,0
+789,198,Bayern,,,,0
+790,198,Niedersachsen,,,,0
+791,198,Sachsen,,,,1
+792,198,Baden-Württemberg,,,,0
+793,199,das Parlament.,,,,0
+794,199,das Ministerium für Staatssicherheit.,,,,1
+795,199,eine regierende Partei.,,,,0
+796,199,das Ministerium für Volksbildung.,,,,0
+797,200,Hessen,,,,0
+798,200,Schleswig-Holstein,,,,0
+799,200,Mecklenburg-Vorpommern,,,,1
+800,200,Saarland,,,,0
+801,201,"Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",,,,0
+802,201,"Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",,,,1
+803,201,"Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",,,,0
+804,201,"Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg",,,,0
+805,202,zu den Westmächten,,,,0
+806,202,zum Warschauer Pakt,,,,1
+807,202,zur NATO,,,,0
+808,202,zu den blockfreien Staaten,,,,0
+809,203,Marktwirtschaft,,,,0
+810,203,Planwirtschaft,,,,1
+811,203,Angebot und Nachfrage,,,,0
+812,203,Kapitalismus,,,,0
+813,204,Die Bundesrepublik hat die DDR besetzt.,,,,0
+814,204,Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.,,,,1
+815,204,Die westlichen Bundesländer sind der DDR beigetreten.,,,,0
+816,204,Die DDR hat die Bundesrepublik Deutschland besetzt.,,,,0
+817,205,zur Europäischen Union.,,,,0
+818,205,zum Warschauer Pakt.,,,,0
+819,205,zur OPEC.,,,,0
+820,205,zur Europäischen Verteidigungsgemeinschaft.,,,,0
+821,206,an berühmte deutsche Politikerinnen und Politiker,,,,1
+822,206,an die Opfer des Nationalsozialismus,,,,1
+823,206,an Verkehrstote,,,,0
+824,206,an bekannte jüdische Musiker,,,,0
+825,207,in der NATO,,,,0
+826,207,im Rheinbund,,,,0
+827,207,im Warschauer Pakt,,,,1
+828,207,im Europabündnis,,,,0
+829,208,"der Geheimdienst im ""Dritten Reich""",,,,0
+830,208,eine berühmte deutsche Gedenkstätte,,,,0
+831,208,der Geheimdienst der DDR,,,,1
+832,208,ein deutscher Sportverein während des Zweiten Weltkrieges,,,,0
+833,209,Bild 1,,,,0
+834,209,Bild 2,,,,0
+835,209,Bild 3,,,,0
+836,209,Bild 4,,,,1
+837,210,der feierliche Beitritt zum Warschauer Pakt,,,,0
+838,210,landesweite Streiks und ein Volksaufstand,,,,1
+839,210,der 1. SED-Parteitag,,,,0
+840,210,der erste Besuch Fidel Castros,,,,0
+841,211,Helmut Kohl,,,,0
+842,211,Willy Brandt,,,,1
+843,211,Michail Gorbatschow,,,,0
+844,211,Ludwig Erhard,,,,0
+845,212,Bundesstaat Deutschland,,,,0
+846,212,Bundesländer Deutschland,,,,0
+847,212,Bundesrepublik Deutschland,,,,1
+848,212,Bundesbezirk Deutschland,,,,0
+849,213,70 Millionen,,,,0
+850,213,78 Millionen,,,,0
+851,213,84 Millionen,,,,1
+852,213,90 Millionen,,,,0
+853,214,schwarz-rot-gold,,,,1
+854,214,rot-weiß-schwarz,,,,0
+855,214,schwarz-rot-grün,,,,0
+856,214,schwarz-gelb-rot,,,,0
+857,215,Gerhard Schröder,,,,0
+858,215,Helmut Kohl,,,,1
+859,215,Konrad Adenauer,,,,0
+860,215,Helmut Schmidt,,,,0
+861,216,der Bundesadler,,,,1
+862,216,die Fahne der Stadt Berlin,,,,0
+863,216,der Reichsadler,,,,0
+864,216,die Reichskrone,,,,0
+865,217,1919 bis 1927,,,,0
+866,217,1933 bis 1945,,,,0
+867,217,1945 bis 1961,,,,0
+868,217,1949 bis 1990,,,,1
+869,218,4,,,,0
+870,218,5,,,,1
+871,218,6,,,,0
+872,218,7,,,,0
+873,219,1933,,,,0
+874,219,1949,,,,0
+875,219,1971,,,,0
+876,219,1990,,,,1
+877,220,an das Ende des Zweiten Weltkrieges,,,,0
+878,220,an die Verabschiedung des Grundgesetzes,,,,0
+879,220,an die Wiedervereinigung Deutschlands,,,,0
+880,220,an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz),,,,1
+881,221,Deutsche können in viele Länder Europas ohne Passkontrolle reisen.,,,,1
+882,221,Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.,,,,0
+883,221,Deutsche können ohne Passkontrolle in jedes Land reisen.,,,,0
+884,221,Deutsche können in jedem Land mit dem Euro bezahlen.,,,,0
+885,222,Ungarn,,,,0
+886,222,Portugal,,,,0
+887,222,Spanien,,,,0
+888,222,Schweiz,,,,1
+889,223,Rumänien,,,,0
+890,223,Bulgarien,,,,0
+891,223,Polen,,,,1
+892,223,Griechenland,,,,0
+893,224,Europäische Unternehmen,,,,0
+894,224,Europäische Union,,,,1
+895,224,Einheitliche Union,,,,0
+896,224,Euro Union,,,,0
+897,225,Tschechien,,,,0
+898,225,Norwegen,,,,0
+899,225,Spanien,,,,0
+900,225,Österreich,,,,1
+901,226,Bild 1,,,,0
+902,226,Bild 2,,,,1
+903,226,Bild 3,,,,0
+904,226,Bild 4,,,,0
+905,227,Finnland,,,,0
+906,227,Dänemark,,,,1
+907,227,Norwegen,,,,0
+908,227,Schweden,,,,0
+909,228,NATO-Osterweiterung,,,,0
+910,228,EU-Osterweiterung,,,,0
+911,228,Deutsche Wiedervereinigung,,,,1
+912,228,Europäische Gemeinschaft,,,,0
+913,229,Spanien,,,,0
+914,229,Bulgarien,,,,0
+915,229,Norwegen,,,,0
+916,229,Luxemburg,,,,1
+917,230,5 Jahre.,,,,1
+918,230,6 Jahre.,,,,0
+919,230,7 Jahre.,,,,0
+920,230,8 Jahre.,,,,0
+921,231,Damit sind amerikanische Einwanderinnen und Einwanderer in Europa gemeint.,,,,0
+922,231,Der Begriff meint den Einwanderungsstopp nach Europa.,,,,0
+923,231,Damit sind europäische Auswanderinnen und Auswanderer in den USA gemeint.,,,,0
+924,231,Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.,,,,1
+925,232,die Europäische Kommission,,,,0
+926,232,"die Länder, die in die EU eintreten dürfen",,,,0
+927,232,die Abgeordneten des Europäischen Parlaments,,,,1
+928,232,die europäische Verfassung,,,,0
+929,233,Tschechien,,,,1
+930,233,Bulgarien,,,,0
+931,233,Griechenland,,,,0
+932,233,Portugal,,,,0
+933,234,London,,,,0
+934,234,Paris,,,,0
+935,234,Berlin,,,,0
+936,234,Straßburg,,,,1
+937,235,Freundschaft zwischen England und Deutschland,,,,0
+938,235,Reisefreiheit in alle Länder der EU,,,,0
+939,235,Frieden und Sicherheit in den Ländern der EU,,,,1
+940,235,einheitliche Feiertage in den Ländern der EU,,,,0
+941,236,21,,,,0
+942,236,23,,,,0
+943,236,25,,,,0
+944,236,27,,,,1
+945,237,Beitritt Deutschlands zur NATO,,,,0
+946,237,Gründung der Europäischen Wirtschaftsgemeinschaft (EWG),,,,1
+947,237,Verpflichtung Deutschlands zu Reparationsleistungen,,,,0
+948,237,Festlegung der Oder-Neiße-Linie als Ostgrenze,,,,0
+949,238,"Paris, London und Den Haag",,,,0
+950,238,"Straßburg, Luxemburg und Brüssel",,,,1
+951,238,"Rom, Bern und Wien",,,,0
+952,238,"Bonn, Zürich und Mailand",,,,0
+953,239,"durch die ""Hamburger Verträge""",,,,0
+954,239,"durch die ""Römischen Verträge""",,,,1
+955,239,"durch die ""Pariser Verträge""",,,,0
+956,239,"durch die ""Londoner Verträge""",,,,0
+957,240,1995,,,,0
+958,240,1998,,,,0
+959,240,2002,,,,1
+960,240,2005,,,,0
+961,241,Sie muss an ihre Krankenkasse schreiben.,,,,0
+962,241,Sie muss einen Antrag bei der Elterngeldstelle stellen.,,,,1
+963,241,"Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",,,,0
+964,241,Sie muss das Arbeitsamt um Erlaubnis bitten.,,,,0
+965,242,der Staat,,,,0
+966,242,die Bundesländer,,,,0
+967,242,die Eltern/die Erziehungsberechtigten,,,,1
+968,242,die Schulen,,,,0
+969,243,Sie müssen die Demonstration anmelden.,,,,1
+970,243,Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.,,,,0
+971,243,"Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",,,,0
+972,243,"Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen.",,,,0
+973,244,das Abitur,,,,1
+974,244,ein Diplom,,,,0
+975,244,die Prokura,,,,0
+976,244,eine Gesellenprüfung,,,,0
+977,245,Hans (20 Jahre) und Marie (19 Jahre),,,,0
+978,245,Tom (20 Jahre) und Klaus (45 Jahre),,,,0
+979,245,Sofie (35 Jahre) und Lisa (40 Jahre),,,,0
+980,245,Anne (13 Jahre) und Tim (25 Jahre),,,,1
+981,246,16,,,,0
+982,246,18,,,,1
+983,246,19,,,,0
+984,246,21,,,,0
+985,247,Elternzeit,,,,0
+986,247,Mutterschutz,,,,1
+987,247,Geburtsvorbereitung,,,,0
+988,247,Wochenbett,,,,0
+989,248,des Staates.,,,,0
+990,248,der Eltern.,,,,1
+991,248,der Großeltern.,,,,0
+992,248,der Schulen.,,,,0
+993,249,der Staat,,,,0
+994,249,die Eltern,,,,1
+995,249,die Verwandten,,,,0
+996,249,die Schulen,,,,0
+997,250,katholisch ist.,,,,0
+998,250,gut ausgebildet ist.,,,,1
+999,250,eine Frau ist.,,,,0
+1000,250,Mitglied einer Partei ist.,,,,0
+1001,251,geht das niemanden etwas an.,,,,0
+1002,251,geht das nur die Familie etwas an.,,,,0
+1003,251,kann man dafür nicht bestraft werden.,,,,0
+1004,251,kann man dafür bestraft werden.,,,,1
+1005,252,darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.,,,,1
+1006,252,kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben.,,,,0
+1007,252,"darf man nicht wieder heiraten, wenn man einmal verheiratet war.",,,,0
+1008,252,"darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist.",,,,0
+1009,253,beim Einwohnermeldeamt,,,,1
+1010,253,beim Standesamt,,,,0
+1011,253,beim Ordnungsamt,,,,0
+1012,253,beim Gewerbeamt,,,,0
+1013,254,Der Scheidungsprozess dauert ein Jahr.,,,,0
+1014,254,"Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.",,,,0
+1015,254,Das Besuchsrecht für die Kinder gilt ein Jahr.,,,,0
+1016,254,Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.,,,,1
+1017,255,Ordnungsamt.,,,,0
+1018,255,Schulamt.,,,,0
+1019,255,Jugendamt.,,,,1
+1020,255,Gesundheitsamt.,,,,0
+1021,256,eine Erlaubnis der Polizei,,,,0
+1022,256,eine Genehmigung einer Partei,,,,0
+1023,256,eine Genehmigung des Einwohnermeldeamts,,,,0
+1024,256,eine Gaststättenerlaubnis von der zuständigen Behörde,,,,1
+1025,257,einer Hochschule.,,,,0
+1026,257,einem Abendgymnasium.,,,,1
+1027,257,einer Hauptschule.,,,,0
+1028,257,einer Privatuniversität.,,,,0
+1029,258,"Es entscheidet, welche Schule das Kind besucht.",,,,0
+1030,258,"Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",,,,1
+1031,258,Es bezahlt das Kindergeld an die Eltern.,,,,0
+1032,258,"Es kontrolliert, ob das Kind einen Kindergarten besucht.",,,,0
+1033,259,Rentenberechnung.,,,,0
+1034,259,Lehrstellensuche.,,,,1
+1035,259,Steuererklärung.,,,,0
+1036,259,Krankenversicherung.,,,,0
+1037,260,Recht auf unbegrenzte Freizeit.,,,,0
+1038,260,Wahlfreiheit für alle Fächer.,,,,0
+1039,260,Anspruch auf Schulgeld.,,,,0
+1040,260,Anwesenheitspflicht.,,,,1
+1041,261,einer Hochschule.,,,,0
+1042,261,einem Abendgymnasium.,,,,1
+1043,261,einer Hauptschule.,,,,0
+1044,261,einer Privatuniversität.,,,,0
+1045,262,Niemand darf z.B. wegen einer Behinderung benachteiligt werden.,,,,1
+1046,262,"Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",,,,0
+1047,262,"Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",,,,0
+1048,262,"Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden.",,,,0
+1049,263,werden bestraft.,,,,1
+1050,263,werden wie Erwachsene behandelt.,,,,0
+1051,263,teilen die Strafe mit ihren Eltern.,,,,0
+1052,263,werden nicht bestraft.,,,,0
+1053,264,am Rosenmontag,,,,1
+1054,264,am Maifeiertag,,,,0
+1055,264,beim Oktoberfest,,,,0
+1056,264,an Pfingsten,,,,0
+1057,265,zum Einwohnermeldeamt,,,,0
+1058,265,zum Ordnungsamt,,,,0
+1059,265,zur Agentur für Arbeit,,,,0
+1060,265,zum Standesamt,,,,1
+1061,266,wenn die Sonne untergeht,,,,0
+1062,266,wenn die Nachbarn schlafen gehen,,,,0
+1063,266,"um 0 Uhr, Mitternacht",,,,0
+1064,266,um 22 Uhr,,,,1
+1065,267,Sie müssen die Entscheidung der volljährigen Tochter respektieren.,,,,1
+1066,267,"Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",,,,0
+1067,267,Sie können zur Polizei gehen und die Tochter anzeigen.,,,,0
+1068,267,Sie suchen einen anderen Mann für die Tochter.,,,,0
+1069,268,"Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",,,,0
+1070,268,"Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",,,,0
+1071,268,"Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",,,,0
+1072,268,Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.,,,,1
+1073,269,monatliches Taschengeld.,,,,0
+1074,269,einen Platz in einem Sportverein.,,,,0
+1075,269,einen Kindergartenplatz.,,,,1
+1076,269,einen Ferienpass.,,,,0
+1077,270,für den Religionsunterricht.,,,,0
+1078,270,nur für Jugendliche.,,,,0
+1079,270,zur Weiterbildung.,,,,1
+1080,270,nur für Rentnerinnen und Rentner.,,,,0
+1081,271,bunte Eier verstecken,,,,0
+1082,271,einen Tannenbaum schmücken,,,,1
+1083,271,sich mit Masken und Kostümen verkleiden,,,,0
+1084,271,Kürbisse vor die Tür stellen,,,,0
+1085,272,Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.,,,,0
+1086,272,Zwei Frauen leben zusammen.,,,,0
+1087,272,Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.,,,,0
+1088,272,Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.,,,,1
+1089,273,zur Ärztin/zum Arzt.,,,,0
+1090,273,zum Gesundheitsamt.,,,,0
+1091,273,zum Einwohnermeldeamt.,,,,0
+1092,273,zum Jugendamt.,,,,1
+1093,274,das Schweigerecht,,,,0
+1094,274,das Briefgeheimnis,,,,1
+1095,274,die Schweigepflicht,,,,0
+1096,274,die Meinungsfreiheit,,,,0
+1097,275,die Einwilligung der Eltern,,,,0
+1098,275,ein Attest einer Ärztin/eines Arztes,,,,0
+1099,275,die Einwilligung der Kinder,,,,0
+1100,275,die Unterstützung einer Anwältin/eines Anwalts,,,,1
+1101,276,Ich kann nichts tun.,,,,0
+1102,276,Ich muss mir diese Behandlung gefallen lassen.,,,,0
+1103,276,Ich drohe der Person.,,,,0
+1104,276,Ich kann mich bei der Behördenleiterin/beim Behördenleiter beschweren.,,,,1
+1105,277,kein Englisch spricht.,,,,0
+1106,277,zu hohe Gehaltsvorstellungen hat.,,,,0
+1107,277,keine Erfahrungen in diesem Beruf hat.,,,,0
+1108,277,Mutter ist.,,,,1
+1109,278,im Rollstuhl sitzt.,,,,1
+1110,278,keine Erfahrung hat.,,,,0
+1111,278,zu hohe Gehaltsvorstellungen hat.,,,,0
+1112,278,kein Englisch spricht.,,,,0
+1113,279,Regeln für die Benutzung öffentlicher Verkehrsmittel.,,,,0
+1114,279,alle Mieterinnen und Mieter im Haus.,,,,0
+1115,279,"Regeln, an die sich alle Bewohnerinnen und Bewohner halten müssen.",,,,1
+1116,279,die Adresse des nächsten Ordnungsamtes.,,,,0
+1117,280,nichts machen.,,,,0
+1118,280,den Bescheid wegwerfen.,,,,0
+1119,280,Einspruch einlegen.,,,,1
+1120,280,"warten, bis ein anderer Bescheid kommt.",,,,0
+1121,281,Meinungsfreiheit,,,,0
+1122,281,Gleichbehandlung,,,,1
+1123,281,Versammlungsfreiheit,,,,0
+1124,281,Freizügigkeit,,,,0
+1125,282,Vereinstrainerin/Vereinstrainer,,,,0
+1126,282,Wahlhelferin/Wahlhelfer,,,,1
+1127,282,Bibliotheksaufsicht,,,,0
+1128,282,Lehrerin/Lehrer,,,,0
+1129,283,Ich lasse die Rechnung liegen.,,,,0
+1130,283,Ich lege Widerspruch bei der Behörde ein.,,,,1
+1131,283,Ich schicke die Rechnung an die Behörde zurück.,,,,0
+1132,283,Ich gehe mit der Rechnung zum Finanzamt.,,,,0
+1133,284,"Es ist egal, was man lernt.",,,,0
+1134,284,Erwachsene müssen auch nach der Ausbildung immer weiter lernen.,,,,1
+1135,284,"Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",,,,0
+1136,284,"Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.",,,,0
+1137,285,Lohnsteuer,,,,0
+1138,285,Beiträge zur Arbeitslosenversicherung,,,,0
+1139,285,Beiträge zur Renten- und Krankenversicherung,,,,0
+1140,285,Umsatzsteuer,,,,1
+1141,286,der Betriebsrat,,,,1
+1142,286,die Betriebsprüferin/der Betriebsprüfer,,,,0
+1143,286,die Betriebsgruppe,,,,0
+1144,286,das Betriebsmanagement,,,,0
+1145,287,die Gehaltszahlungen,,,,0
+1146,287,die Arbeitszeit,,,,0
+1147,287,die Kündigungsfrist,,,,1
+1148,287,die Versicherungspflicht,,,,0
+1149,288,aus der Mitgliedschaft in der Europäischen Union (EU),,,,0
+1150,288,aus den nationalsozialistischen Verbrechen gegen Juden,,,,1
+1151,288,aus dem Grundgesetz der Bundesrepublik Deutschland,,,,0
+1152,288,aus der christlichen Tradition,,,,0
+1153,289,seine Deutschkenntnisse zu gering sind.,,,,0
+1154,289,er zu hohe Gehaltsvorstellungen hat.,,,,0
+1155,289,er eine dunkle Haut hat.,,,,1
+1156,289,er keine Erfahrungen im Beruf hat.,,,,0
+1157,290,eine Anzeige schreiben,,,,0
+1158,290,den Fernseher reklamieren,,,,1
+1159,290,das Gerät ungefragt austauschen,,,,0
+1160,290,die Garantie verlängern,,,,0
+1161,291,"es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",,,,1
+1162,291,das für die Statistik in Deutschland wichtig ist.,,,,0
+1163,291,"man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",,,,0
+1164,291,die Kirche für die Steuererklärung verantwortlich ist.,,,,0
+1165,292,Es dürfen keine Moscheen gebaut werden.,,,,0
+1166,292,Alle Menschen glauben an Gott.,,,,0
+1167,292,"Jeder kann glauben, was er möchte.",,,,1
+1168,292,"Der Staat entscheidet, an welchen Gott die Menschen glauben.",,,,0
+1169,293,Kürbisse vor die Tür stellen,,,,0
+1170,293,einen Tannenbaum schmücken,,,,0
+1171,293,Eier bemalen,,,,1
+1172,293,Raketen in die Luft schießen,,,,0
+1173,294,christlicher Feiertag.,,,,1
+1174,294,deutscher Gedenktag.,,,,0
+1175,294,internationaler Trauertag.,,,,0
+1176,294,bayerischer Brauch.,,,,0
+1177,295,der Hinduismus,,,,0
+1178,295,das Christentum,,,,1
+1179,295,der Buddhismus,,,,0
+1180,295,der Islam,,,,0
+1181,296,den Buß- und Bettag.,,,,0
+1182,296,das Erntedankfest.,,,,0
+1183,296,die Adventszeit.,,,,1
+1184,296,Allerheiligen.,,,,0
+1185,297,Italien,,,,0
+1186,297,Polen,,,,0
+1187,297,Marokko,,,,0
+1188,297,Türkei,,,,1
+1189,298,"Vietnam, Polen, Mosambik.",,,,1
+1190,298,"Frankreich, Rumänien, Somalia.",,,,0
+1191,298,"Chile, Ungarn, Simbabwe.",,,,0
+1192,298,"Nordkorea, Mexiko, Ägypten.",,,,0
+1193,299,Schwarzarbeiterinnen/Schwarzarbeiter.,,,,0
+1194,299,Gastarbeiterinnen/Gastarbeiter.,,,,1
+1195,299,Zeitarbeiterinnen/Zeitarbeiter.,,,,0
+1196,299,Schichtarbeiterinnen/Schichtarbeiter.,,,,0
+1197,300,Italien,,,,1
+1198,300,Spanien,,,,0
+1199,300,Portugal,,,,0
+1200,300,Türkei,,,,0
+1201,301,Bild 1,,,,1
+1202,301,Bild 2,,,,0
+1203,301,Bild 3,,,,0
+1204,301,Bild 4,,,,0
+1205,302,Mecklenburgische Seenplatte,,,,0
+1206,302,Neckar-Odenwald-Kreis,,,,1
+1207,302,Nordfriesland,,,,0
+1208,302,Altötting,,,,0
+1209,303,3,,,,0
+1210,303,4,,,,0
+1211,303,5,,,,1
+1212,303,6,,,,0
+1213,304,14,,,,0
+1214,304,16,,,,1
+1215,304,18,,,,0
+1216,304,20,,,,0
+1217,305,blau-weiß-rot,,,,0
+1218,305,schwarz-gold,,,,1
+1219,305,weiß-blau,,,,0
+1220,305,grün-weiß-rot,,,,0
+1221,306,beim Ordnungsamt der Gemeinde,,,,0
+1222,306,bei der Verbraucherzentrale,,,,0
+1223,306,bei der Landeszentrale für politische Bildung,,,,1
+1224,306,bei den Kirchen,,,,0
+1225,307,Heidelberg.,,,,0
+1226,307,Stuttgart.,,,,1
+1227,307,Karlsruhe.,,,,0
+1228,307,Mannheim.,,,,0
+1229,308,1,,,,0
+1230,308,2,,,,1
+1231,308,3,,,,0
+1232,308,4,,,,0
+1233,309,Erste Ministerin/Erster Minister,,,,0
+1234,309,Premierministerin/Premierminister,,,,0
+1235,309,Bürgermeisterin/Bürgermeister,,,,0
+1236,309,Ministerpräsidentin/Ministerpräsident,,,,1
+1237,310,Finanzministerin/Finanzminister,,,,0
+1238,310,Justizministerin/Justizminister,,,,0
+1239,310,Innenministerin/Innenminister,,,,0
+1240,310,Außenministerin/Außenminister,,,,1
+1241,311,Bild 1,,,,0
+1242,311,Bild 2,,,,1
+1243,311,Bild 3,,,,0
+1244,311,Bild 4,,,,0
+1245,312,Prignitz,,,,0
+1246,312,Rhein-Sieg-Kreis,,,,0
+1247,312,Nordfriesland,,,,0
+1248,312,Altötting,,,,1
+1249,313,3,,,,0
+1250,313,4,,,,0
+1251,313,5,,,,1
+1252,313,6,,,,0
+1253,314,14,,,,0
+1254,314,16,,,,0
+1255,314,18,,,,1
+1256,314,20,,,,0
+1257,315,blau-weiß-rot,,,,0
+1258,315,weiß-blau,,,,1
+1259,315,grün-weiß-rot,,,,0
+1260,315,schwarz-gelb,,,,0
+1261,316,beim Ordnungsamt der Gemeinde,,,,0
+1262,316,bei der Landeszentrale für politische Bildung,,,,1
+1263,316,bei der Verbraucherzentrale,,,,0
+1264,316,bei den Kirchen,,,,0
+1265,317,Ingolstadt.,,,,0
+1266,317,Regensburg.,,,,0
+1267,317,Nürnberg.,,,,0
+1268,317,München.,,,,1
+1269,318,1,,,,0
+1270,318,2,,,,0
+1271,318,3,,,,0
+1272,318,4,,,,1
+1273,319,Erste Ministerin/Erster Minister,,,,0
+1274,319,Premierministerin/Premierminister,,,,0
+1275,319,Bürgermeisterin/Bürgermeister,,,,0
+1276,319,Ministerpräsidentin/Ministerpräsident,,,,1
+1277,320,Justizministerin/Justizminister,,,,0
+1278,320,Außenministerin/Außenminister,,,,1
+1279,320,Finanzministerin/Finanzminister,,,,0
+1280,320,Innenministerin/Innenminister,,,,0
+1281,321,Bild 1,,,,0
+1282,321,Bild 2,,,,0
+1283,321,Bild 3,,,,0
+1284,321,Bild 4,,,,1
+1285,322,Altona,,,,0
+1286,322,Prignitz,,,,0
+1287,322,Pankow,,,,1
+1288,322,Mecklenburgische Seenplatte,,,,0
+1289,323,3,,,,0
+1290,323,4,,,,0
+1291,323,5,,,,1
+1292,323,6,,,,0
+1293,324,14,,,,0
+1294,324,16,,,,1
+1295,324,18,,,,0
+1296,324,20,,,,0
+1297,325,blau-weiß-rot,,,,0
+1298,325,weiß-rot,,,,1
+1299,325,grün-weiß-rot,,,,0
+1300,325,schwarz-gold,,,,0
+1301,326,beim Ordnungsamt der Gemeinde,,,,0
+1302,326,bei den Kirchen,,,,0
+1303,326,bei der Verbraucherzentrale,,,,0
+1304,326,bei der Landeszentrale für politische Bildung,,,,1
+1305,327,Berlin,,,,1
+1306,327,Saarland,,,,0
+1307,327,Brandenburg,,,,0
+1308,327,Hessen,,,,0
+1309,328,1,,,,0
+1310,328,2,,,,0
+1311,328,3,,,,0
+1312,328,4,,,,1
+1313,329,Ministerpräsidentin/Ministerpräsident,,,,0
+1314,329,Oberbürgermeisterin/Oberbürgermeister,,,,0
+1315,329,Präsidentin/Präsident des Senates,,,,0
+1316,329,Regierende Bürgermeisterin/Regierender Bürgermeister,,,,1
+1317,330,Finanzsenatorin/Finanzsenator,,,,0
+1318,330,Innensenatorin/Innensenator,,,,0
+1319,330,Senatorin/Senator für Außenbeziehungen,,,,1
+1320,330,Justizsenatorin/Justizsenator,,,,0
+1321,331,Bild 1,,,,1
+1322,331,Bild 2,,,,0
+1323,331,Bild 3,,,,0
+1324,331,Bild 4,,,,0
+1325,332,Prignitz,,,,1
+1326,332,Rhein-Sieg-Kreis,,,,0
+1327,332,Vogtlandkreis,,,,0
+1328,332,Amberg-Sulzbach,,,,0
+1329,333,3,,,,0
+1330,333,4,,,,0
+1331,333,5,,,,1
+1332,333,6,,,,0
+1333,334,14,,,,0
+1334,334,16,,,,1
+1335,334,18,,,,0
+1336,334,20,,,,0
+1337,335,blau-weiß-rot,,,,0
+1338,335,rot-weiß,,,,1
+1339,335,grün-weiß-rot,,,,0
+1340,335,schwarz-gelb,,,,0
+1341,336,bei den Kirchen,,,,0
+1342,336,beim Ordnungsamt der Gemeinde,,,,0
+1343,336,bei der Landeszentrale für politische Bildung,,,,1
+1344,336,bei der Verbraucherzentrale,,,,0
+1345,337,Potsdam.,,,,1
+1346,337,Cottbus.,,,,0
+1347,337,Brandenburg.,,,,0
+1348,337,Frankfurt/Oder.,,,,0
+1349,338,1,,,,0
+1350,338,2,,,,0
+1351,338,3,,,,0
+1352,338,4,,,,1
+1353,339,Erste Ministerin/Erster Minister,,,,0
+1354,339,Premierministerin/Premierminister,,,,0
+1355,339,Bürgermeisterin/Bürgermeister,,,,0
+1356,339,Ministerpräsidentin/Ministerpräsident,,,,1
+1357,340,Justizministerin/Justizminister,,,,0
+1358,340,Außenministerin/Außenminister,,,,1
+1359,340,Finanzministerin/Finanzminister,,,,0
+1360,340,Innenministerin/Innenminister,,,,0
+1361,341,Bild 1,,,,0
+1362,341,Bild 2,,,,0
+1363,341,Bild 3,,,,1
+1364,341,Bild 4,,,,0
+1365,342,Altona,,,,0
+1366,342,Hemelingen,,,,1
+1367,342,Pankow,,,,0
+1368,342,Babelsberg,,,,0
+1369,343,3,,,,0
+1370,343,4,,,,1
+1371,343,5,,,,0
+1372,343,6,,,,0
+1373,344,14,,,,0
+1374,344,16,,,,1
+1375,344,18,,,,0
+1376,344,20,,,,0
+1377,345,blau-weiß-rot,,,,0
+1378,345,rot-weiß,,,,1
+1379,345,grün-weiß-rot,,,,0
+1380,345,schwarz-gold,,,,0
+1381,346,beim Ordnungsamt der Gemeinde,,,,0
+1382,346,bei der Landeszentrale für politische Bildung,,,,1
+1383,346,bei den Kirchen,,,,0
+1384,346,bei der Verbraucherzentrale,,,,0
+1385,347,Bremen,,,,1
+1386,347,München,,,,0
+1387,347,Frankfurt,,,,0
+1388,347,Erfurt,,,,0
+1389,348,1,,,,1
+1390,348,2,,,,0
+1391,348,3,,,,0
+1392,348,4,,,,0
+1393,349,Ministerpräsidentin/Ministerpräsident,,,,0
+1394,349,Erste Bürgermeisterin/Erster Bürgermeister,,,,0
+1395,349,Präsidentin/Präsident des Senates,,,,1
+1396,349,Regierende Bürgermeisterin/Regierender Bürgermeister,,,,0
+1397,350,Senatorin/Senator für Außenbeziehungen,,,,1
+1398,350,Finanzsenatorin/Finanzsenator,,,,0
+1399,350,Justizsenatorin/Justizsenator,,,,0
+1400,350,Innensenatorin/Innensenator,,,,0
+1401,351,Bild 1,,,,0
+1402,351,Bild 2,,,,1
+1403,351,Bild 3,,,,0
+1404,351,Bild 4,,,,0
+1405,352,Altona,,,,1
+1406,352,Hemelingen,,,,0
+1407,352,Pankow,,,,0
+1408,352,Mecklenburgische Seenplatte,,,,0
+1409,353,3,,,,0
+1410,353,4,,,,0
+1411,353,5,,,,1
+1412,353,6,,,,0
+1413,354,14,,,,0
+1414,354,16,,,,1
+1415,354,18,,,,0
+1416,354,20,,,,0
+1417,355,blau-weiß-rot,,,,0
+1418,355,weiß-rot,,,,1
+1419,355,grün-weiß-rot,,,,0
+1420,355,schwarz-gelb,,,,0
+1421,356,beim Ordnungsamt der Gemeinde,,,,0
+1422,356,bei der Verbraucherzentrale,,,,0
+1423,356,bei den Kirchen,,,,0
+1424,356,bei der Landeszentrale für politische Bildung,,,,1
+1425,357,Hamburg,,,,1
+1426,357,Sachsen,,,,0
+1427,357,Bayern,,,,0
+1428,357,Thüringen,,,,0
+1429,358,1,,,,0
+1430,358,2,,,,0
+1431,358,3,,,,1
+1432,358,4,,,,0
+1433,359,Ministerpräsidentin/Ministerpräsident,,,,0
+1434,359,Erste Bürgermeisterin/Erster Bürgermeister,,,,1
+1435,359,Regierende Senatorin/Regierender Senator,,,,0
+1436,359,Oberbürgermeisterin/Oberbürgermeister,,,,0
+1437,360,Justizsenatorin/Justizsenator,,,,0
+1438,360,Senatorin/Senator für Außenbeziehungen,,,,1
+1439,360,Finanzsenatorin/Finanzsenator,,,,0
+1440,360,Innensenatorin/Innensenator,,,,0
+1441,361,Bild 1,,,,1
+1442,361,Bild 2,,,,0
+1443,361,Bild 3,,,,0
+1444,361,Bild 4,,,,0
+1445,362,Ammerland,,,,0
+1446,362,Altötting,,,,0
+1447,362,Prignitz,,,,0
+1448,362,Main-Taunus-Kreis,,,,1
+1449,363,3,,,,0
+1450,363,4,,,,0
+1451,363,5,,,,1
+1452,363,6,,,,0
+1453,364,14,,,,0
+1454,364,16,,,,0
+1455,364,18,,,,1
+1456,364,20,,,,0
+1457,365,blau-weiß-rot,,,,0
+1458,365,rot-weiß,,,,1
+1459,365,schwarz-gold,,,,0
+1460,365,grün-weiß-rot,,,,0
+1461,366,bei der Landeszentrale für politische Bildung,,,,1
+1462,366,bei der Verbraucherzentrale,,,,0
+1463,366,beim Ordnungsamt der Gemeinde,,,,0
+1464,366,bei den Kirchen,,,,0
+1465,367,Kassel.,,,,0
+1466,367,Darmstadt.,,,,0
+1467,367,Frankfurt.,,,,0
+1468,367,Wiesbaden.,,,,1
+1469,368,1,,,,0
+1470,368,2,,,,0
+1471,368,3,,,,1
+1472,368,4,,,,0
+1473,369,Erste Ministerin/Erster Minister,,,,0
+1474,369,Premierministerin/Premierminister,,,,0
+1475,369,Bürgermeisterin/Bürgermeister,,,,0
+1476,369,Ministerpräsidentin/Ministerpräsident,,,,1
+1477,370,Justizministerin/Justizminister,,,,0
+1478,370,Außenministerin/Außenminister,,,,1
+1479,370,Finanzministerin/Finanzminister,,,,0
+1480,370,Innenministerin/Innenminister,,,,0
+1481,371,Bild 1,,,,0
+1482,371,Bild 2,,,,0
+1483,371,Bild 3,,,,1
+1484,371,Bild 4,,,,0
+1485,372,Prignitz,,,,0
+1486,372,Mecklenburgische Seenplatte,,,,1
+1487,372,Vogtlandkreis,,,,0
+1488,372,Rhein-Sieg-Kreis,,,,0
+1489,373,3,,,,0
+1490,373,4,,,,0
+1491,373,5,,,,1
+1492,373,6,,,,0
+1493,374,14,,,,0
+1494,374,16,,,,1
+1495,374,18,,,,0
+1496,374,20,,,,0
+1497,375,schwarz-rot-gold,,,,0
+1498,375,blau-weiß-gelb-rot,,,,1
+1499,375,grün-weiß-rot,,,,0
+1500,375,schwarz-gelb,,,,0
+1501,376,bei der Landeszentrale für politische Bildung,,,,1
+1502,376,bei den Kirchen,,,,0
+1503,376,beim Ordnungsamt der Gemeinde,,,,0
+1504,376,bei der Verbraucherzentrale,,,,0
+1505,377,Greifswald.,,,,0
+1506,377,Schwerin.,,,,1
+1507,377,Rostock.,,,,0
+1508,377,Wismar.,,,,0
+1509,378,1,,,,0
+1510,378,2,,,,0
+1511,378,3,,,,1
+1512,378,4,,,,0
+1513,379,Erste Ministerin/Erster Minister,,,,0
+1514,379,Premierministerin/Premierminister,,,,0
+1515,379,Bürgermeisterin/Bürgermeister,,,,0
+1516,379,Ministerpräsidentin/Ministerpräsident,,,,1
+1517,380,Justizministerin/Justizminister,,,,0
+1518,380,Außenministerin/Außenminister,,,,1
+1519,380,Finanzministerin/Finanzminister,,,,0
+1520,380,Innenministerin/Innenminister,,,,0
+1521,381,Bild 1,,,,0
+1522,381,Bild 2,,,,0
+1523,381,Bild 3,,,,1
+1524,381,Bild 4,,,,0
+1525,382,Ammerland,,,,1
+1526,382,Rhein-Sieg-Kreis,,,,0
+1527,382,Nordfriesland,,,,0
+1528,382,Vogtlandkreis,,,,0
+1529,383,3,,,,0
+1530,383,4,,,,0
+1531,383,5,,,,1
+1532,383,6,,,,0
+1533,384,14,,,,0
+1534,384,16,,,,1
+1535,384,18,,,,0
+1536,384,20,,,,0
+1537,385,weiß-blau,,,,0
+1538,385,schwarz-rot-gold,,,,1
+1539,385,schwarz-gelb,,,,0
+1540,385,blau-weiß-rot,,,,0
+1541,386,bei der Landeszentrale für politische Bildung,,,,1
+1542,386,beim Ordnungsamt der Gemeinde,,,,0
+1543,386,bei der Verbraucherzentrale,,,,0
+1544,386,bei den Kirchen,,,,0
+1545,387,Hannover.,,,,1
+1546,387,Braunschweig.,,,,0
+1547,387,Wolfsburg.,,,,0
+1548,387,Osnabrück.,,,,0
+1549,388,1,,,,1
+1550,388,2,,,,0
+1551,388,3,,,,0
+1552,388,4,,,,0
+1553,389,Erste Ministerin/Erster Minister,,,,0
+1554,389,Premierministerin/Premierminister,,,,0
+1555,389,Bürgermeisterin/Bürgermeister,,,,0
+1556,389,Ministerpräsidentin/Ministerpräsident,,,,1
+1557,390,Justizministerin/Justizminister,,,,0
+1558,390,Außenministerin/Außenminister,,,,1
+1559,390,Finanzministerin/Finanzminister,,,,0
+1560,390,Innenministerin/Innenminister,,,,0
+1561,391,Bild 1,,,,0
+1562,391,Bild 2,,,,1
+1563,391,Bild 3,,,,0
+1564,391,Bild 4,,,,0
+1565,392,Ammerland,,,,0
+1566,392,Rhein-Sieg-Kreis,,,,1
+1567,392,Nordfriesland,,,,0
+1568,392,Vogtlandkreis,,,,0
+1569,393,3,,,,0
+1570,393,4,,,,0
+1571,393,5,,,,1
+1572,393,6,,,,0
+1573,394,14,,,,0
+1574,394,16,,,,1
+1575,394,18,,,,0
+1576,394,20,,,,0
+1577,395,rot-weiß,,,,0
+1578,395,grün-weiß-rot,,,,1
+1579,395,schwarz-gold,,,,0
+1580,395,blau-weiß-rot,,,,0
+1581,396,bei den Kirchen,,,,0
+1582,396,beim Ordnungsamt der Gemeinde,,,,0
+1583,396,bei der Verbraucherzentrale,,,,0
+1584,396,bei der Landeszentrale für politische Bildung,,,,1
+1585,397,Köln.,,,,0
+1586,397,Bonn.,,,,0
+1587,397,Düsseldorf.,,,,1
+1588,397,Dortmund.,,,,0
+1589,398,1,,,,0
+1590,398,2,,,,0
+1591,398,3,,,,1
+1592,398,4,,,,0
+1593,399,Erste Ministerin/Erster Minister,,,,0
+1594,399,Premierministerin/Premierminister,,,,0
+1595,399,Bürgermeisterin/Bürgermeister,,,,0
+1596,399,Ministerpräsidentin/Ministerpräsident,,,,1
+1597,400,Justizministerin/Justizminister,,,,0
+1598,400,Außenministerin/Außenminister,,,,1
+1599,400,Finanzministerin/Finanzminister,,,,0
+1600,400,Innenministerin/Innenminister,,,,0
+1601,401,Bild 1,,,,1
+1602,401,Bild 2,,,,0
+1603,401,Bild 3,,,,0
+1604,401,Bild 4,,,,0
+1605,402,Westerwaldkreis,,,,1
+1606,402,Altötting,,,,0
+1607,402,Emsland,,,,0
+1608,402,Prignitz,,,,0
+1609,403,3,,,,0
+1610,403,4,,,,0
+1611,403,5,,,,1
+1612,403,6,,,,0
+1613,404,14,,,,0
+1614,404,16,,,,0
+1615,404,18,,,,1
+1616,404,20,,,,0
+1617,405,weiß-rot,,,,0
+1618,405,schwarz-rot-gold,,,,1
+1619,405,schwarz-gelb,,,,0
+1620,405,grün-weiß-rot,,,,0
+1621,406,bei den Kirchen,,,,0
+1622,406,bei der Verbraucherzentrale,,,,0
+1623,406,beim Ordnungsamt der Gemeinde,,,,0
+1624,406,bei der Landeszentrale für politische Bildung,,,,1
+1625,407,Mainz.,,,,1
+1626,407,Kaiserslautern.,,,,0
+1627,407,Ludwigshafen.,,,,0
+1628,407,Koblenz.,,,,0
+1629,408,1,,,,1
+1630,408,2,,,,0
+1631,408,3,,,,0
+1632,408,4,,,,0
+1633,409,Erste Ministerin/Erster Minister,,,,0
+1634,409,Premierministerin/Premierminister,,,,0
+1635,409,Bürgermeisterin/Bürgermeister,,,,0
+1636,409,Ministerpräsidentin/Ministerpräsident,,,,1
+1637,410,Justizministerin/Justizminister,,,,0
+1638,410,Außenministerin/Außenminister,,,,1
+1639,410,Finanzministerin/Finanzminister,,,,0
+1640,410,Innenministerin/Innenminister,,,,0
+1641,411,Bild 1,,,,0
+1642,411,Bild 2,,,,0
+1643,411,Bild 3,,,,0
+1644,411,Bild 4,,,,1
+1645,412,Mecklenburgische Seenplatte,,,,0
+1646,412,Altötting,,,,0
+1647,412,Neunkirchen,,,,1
+1648,412,Rhein-Sieg-Kreis,,,,0
+1649,413,3,,,,0
+1650,413,4,,,,0
+1651,413,5,,,,1
+1652,413,6,,,,0
+1653,414,14,,,,0
+1654,414,16,,,,0
+1655,414,18,,,,1
+1656,414,20,,,,0
+1657,415,weiß-blau,,,,0
+1658,415,schwarz-rot-gold,,,,1
+1659,415,schwarz-gelb,,,,0
+1660,415,grün-weiß-rot,,,,0
+1661,416,bei den Kirchen,,,,0
+1662,416,bei der Landeszentrale für politische Bildung,,,,1
+1663,416,bei der Verbraucherzentrale,,,,0
+1664,416,beim Ordnungsamt der Gemeinde,,,,0
+1665,417,Neunkirchen.,,,,0
+1666,417,Homburg.,,,,0
+1667,417,Saarbrücken.,,,,1
+1668,417,Völklingen.,,,,0
+1669,418,1,,,,0
+1670,418,2,,,,1
+1671,418,3,,,,0
+1672,418,4,,,,0
+1673,419,Erste Ministerin/Erster Minister,,,,0
+1674,419,Premierministerin/Premierminister,,,,0
+1675,419,Bürgermeisterin/Bürgermeister,,,,0
+1676,419,Ministerpräsidentin/Ministerpräsident,,,,1
+1677,420,Justizministerin/Justizminister,,,,0
+1678,420,Außenministerin/Außenminister,,,,1
+1679,420,Finanzministerin/Finanzminister,,,,0
+1680,420,Innenministerin/Innenminister,,,,0
+1681,421,Bild 1,,,,0
+1682,421,Bild 2,,,,0
+1683,421,Bild 3,,,,0
+1684,421,Bild 4,,,,1
+1685,422,Vogtlandkreis,,,,1
+1686,422,Altötting,,,,0
+1687,422,Uckermark,,,,0
+1688,422,Nordfriesland,,,,0
+1689,423,3,,,,0
+1690,423,4,,,,0
+1691,423,5,,,,1
+1692,423,6,,,,0
+1693,424,14,,,,0
+1694,424,16,,,,0
+1695,424,18,,,,1
+1696,424,20,,,,0
+1697,425,blau-weiß-rot,,,,0
+1698,425,weiß-grün,,,,1
+1699,425,grün-weiß-rot,,,,0
+1700,425,schwarz-gelb,,,,0
+1701,426,bei der Landeszentrale für politische Bildung,,,,1
+1702,426,beim Ordnungsamt der Gemeinde,,,,0
+1703,426,bei den Kirchen,,,,0
+1704,426,bei der Verbraucherzentrale,,,,0
+1705,427,Leipzig.,,,,0
+1706,427,Dresden.,,,,1
+1707,427,Chemnitz.,,,,0
+1708,427,Zwickau.,,,,0
+1709,428,1,,,,0
+1710,428,2,,,,0
+1711,428,3,,,,0
+1712,428,4,,,,1
+1713,429,Erste Ministerin/Erster Minister,,,,0
+1714,429,Premierministerin/Premierminister,,,,0
+1715,429,Bürgermeisterin/Bürgermeister,,,,0
+1716,429,Ministerpräsidentin/Ministerpräsident,,,,1
+1717,430,Justizministerin/Justizminister,,,,0
+1718,430,Außenministerin/Außenminister,,,,1
+1719,430,Finanzministerin/Finanzminister,,,,0
+1720,430,Innenministerin/Innenminister,,,,0
+1721,431,Bild 1,,,,0
+1722,431,Bild 2,,,,0
+1723,431,Bild 3,,,,0
+1724,431,Bild 4,,,,1
+1725,432,Ammerland,,,,0
+1726,432,Altötting,,,,0
+1727,432,Uckermark,,,,0
+1728,432,Börde,,,,1
+1729,433,3,,,,0
+1730,433,4,,,,0
+1731,433,5,,,,1
+1732,433,6,,,,0
+1733,434,14,,,,0
+1734,434,16,,,,1
+1735,434,18,,,,0
+1736,434,20,,,,0
+1737,435,blau-weiß-rot,,,,0
+1738,435,gelb-schwarz,,,,1
+1739,435,grün-weiß-rot,,,,0
+1740,435,weiß-rot,,,,0
+1741,436,bei den Kirchen,,,,0
+1742,436,bei der Landeszentrale für politische Bildung,,,,1
+1743,436,beim Ordnungsamt der Gemeinde,,,,0
+1744,436,bei der Verbraucherzentrale,,,,0
+1745,437,Halle.,,,,0
+1746,437,Dessau.,,,,0
+1747,437,Magdeburg.,,,,1
+1748,437,Wittenberg.,,,,0
+1749,438,1,,,,0
+1750,438,2,,,,0
+1751,438,3,,,,1
+1752,438,4,,,,0
+1753,439,Erste Ministerin/Erster Minister,,,,0
+1754,439,Premierministerin/Premierminister,,,,0
+1755,439,Bürgermeisterin/Bürgermeister,,,,0
+1756,439,Ministerpräsidentin/Ministerpräsident,,,,1
+1757,440,Justizministerin/Justizminister,,,,0
+1758,440,Außenministerin/Außenminister,,,,1
+1759,440,Finanzministerin/Finanzminister,,,,0
+1760,440,Innenministerin/Innenminister,,,,0
+1761,441,Bild 1,,,,0
+1762,441,Bild 2,,,,0
+1763,441,Bild 3,,,,1
+1764,441,Bild 4,,,,0
+1765,442,Ammerland,,,,0
+1766,442,Mecklenburgische Seenplatte,,,,0
+1767,442,Nordfriesland,,,,1
+1768,442,Rhein-Sieg-Kreis,,,,0
+1769,443,3,,,,0
+1770,443,4,,,,0
+1771,443,5,,,,1
+1772,443,6,,,,0
+1773,444,14,,,,0
+1774,444,16,,,,1
+1775,444,18,,,,0
+1776,444,20,,,,0
+1777,445,weiß-blau,,,,0
+1778,445,blau-weiß-rot,,,,1
+1779,445,weiß-rot,,,,0
+1780,445,grün-weiß-rot,,,,0
+1781,446,bei der Verbraucherzentrale,,,,0
+1782,446,beim Ordnungsamt der Gemeinde,,,,0
+1783,446,beim / bei der Landesbeauftragten für politische Bildung,,,,1
+1784,446,bei den Kirchen,,,,0
+1785,447,Husum.,,,,0
+1786,447,Flensburg.,,,,0
+1787,447,Lübeck.,,,,0
+1788,447,Kiel.,,,,1
+1789,448,1,,,,1
+1790,448,2,,,,0
+1791,448,3,,,,0
+1792,448,4,,,,0
+1793,449,Erste Ministerin/Erster Minister,,,,0
+1794,449,Premierministerin/Premierminister,,,,0
+1795,449,Bürgermeisterin/Bürgermeister,,,,0
+1796,449,Ministerpräsidentin/Ministerpräsident,,,,1
+1797,450,Justizministerin/Justizminister,,,,0
+1798,450,Außenministerin/Außenminister,,,,1
+1799,450,Finanzministerin/Finanzminister,,,,0
+1800,450,Innenministerin/Innenminister,,,,0
+1801,451,Bild 1,,,,0
+1802,451,Bild 2,,,,0
+1803,451,Bild 3,,,,0
+1804,451,Bild 4,,,,1
+1805,452,Ammerland,,,,0
+1806,452,Altötting,,,,0
+1807,452,Nordfriesland,,,,0
+1808,452,Wartburgkreis,,,,1
+1809,453,3,,,,0
+1810,453,4,,,,0
+1811,453,5,,,,1
+1812,453,6,,,,0
+1813,454,14,,,,0
+1814,454,16,,,,1
+1815,454,18,,,,0
+1816,454,20,,,,0
+1817,455,blau-weiß-rot,,,,0
+1818,455,weiß-rot,,,,1
+1819,455,grün-weiß-rot,,,,0
+1820,455,schwarz-gold,,,,0
+1821,456,bei den Kirchen,,,,0
+1822,456,bei der Verbraucherzentrale,,,,0
+1823,456,bei der Landeszentrale für politische Bildung,,,,1
+1824,456,beim Ordnungsamt der Gemeinde,,,,0
+1825,457,Eisenach.,,,,0
+1826,457,Erfurt.,,,,1
+1827,457,Gera.,,,,0
+1828,457,Jena.,,,,0
+1829,458,1,,,,0
+1830,458,2,,,,1
+1831,458,3,,,,0
+1832,458,4,,,,0
+1833,459,Erste Ministerin/Erster Minister,,,,0
+1834,459,Premierministerin/Premierminister,,,,0
+1835,459,Bürgermeisterin/Bürgermeister,,,,0
+1836,459,Ministerpräsidentin/Ministerpräsident,,,,1
+1837,460,Justizministerin/Justizminister,,,,0
+1838,460,Außenministerin/Außenminister,,,,1
+1839,460,Finanzministerin/Finanzminister,,,,0
+1840,460,Innenministerin/Innenminister,,,,0

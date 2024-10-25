@@ -11,22 +11,14 @@
                         {{ $index + 1 }}. {{ $question->question_text_de }}
                     </h4>
                     
-                    {{-- Conditionally display the translation based on selected language --}}
-                    @php
-                        $translatedQuestionText = match(app()->getLocale()) {
-                            'en' => $question->question_text_en,
-                            'ps' => $question->question_text_pashto,
-                            'fa' => $question->question_text_dari,
-                            default => null
-                        };
-                        $rtlClass = in_array(app()->getLocale(), ['ps', 'fa']) ? 'rtl' : '';
-                    @endphp
-                    @if($translatedQuestionText)
-                        <p class="text-sm text-gray-500 {{$rtlClass}} ">{{ $index + 1 }}. {{ $translatedQuestionText }}</p>
+                    @if($translation !== 'de')
+                        <p class="text-sm text-gray-500 {{ in_array($translation, ['dari', 'pashto']) ? 'rtl' : '' }}  ">
+                            {{ $question->{'question_text_'.$translation} }}
+                        </p>
                     @endif
 
                     {{-- Display question image if available --}}
-                    @if($question->image == 1.0)
+                    @if($question->image == 1)
                         <img src="{{ asset('imageQuestions/' . $question->id . '.jpg') }}" alt="Question Image" class="mt-4 w-full h-auto rounded-lg">
                     @endif
 
@@ -39,18 +31,10 @@
                                 
                                 {{-- Display answer text --}}
                                 <p class="text-gray-800">{{ $answer->answer_text_de }}</p>
-
-                                {{-- Conditionally display the translation based on selected language --}}
-                                @php
-                                    $translatedAnswerText = match(app()->getLocale()) {
-                                        'en' => $answer->answer_text_en,
-                                        'ps' => $answer->answer_text_pashto,
-                                        'fa' => $answer->answer_text_dari,
-                                        default => null
-                                    };
-                                @endphp
-                                @if($translatedAnswerText)
-                                    <p class="text-sm text-gray-500 {{$rtlClass}}">{{ $translatedAnswerText }}</p>
+                                @if($translation !== 'de')
+                                    <p class="text-sm text-gray-500 {{ in_array($translation, ['dari', 'pashto']) ? 'rtl' : '' }} ">
+                                        {{ $answer->{'answer_text_'.$translation} }}
+                                    </p>
                                 @endif
                             </li>
                         @endforeach

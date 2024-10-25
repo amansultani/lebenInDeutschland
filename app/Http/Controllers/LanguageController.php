@@ -12,11 +12,11 @@ class LanguageController extends Controller
     {
         
         $request->validate([
-            'language' => 'required|in:de,en,fa,ps',
+            'language' => 'required|in:de,en,dari,pashto',
         ]);
 
         Session::put('locale', $request->language);
 
-        return redirect()->back();
+        return redirect()->back(); 
     }
 }

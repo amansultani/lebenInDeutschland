@@ -29,12 +29,13 @@ class QuestionController extends Controller
             $questionsQuery->byState($state); 
         }
     
-        // Fetch the final set of questions
+        
         $questions = $questionsQuery->get();
     
         return view('question.index', [
             'questions' => $questions,
             'state' => $state,
+            'translation' =>app()->getLocale(),
         ]);
     
     }

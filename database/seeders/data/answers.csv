@@ -815,11 +815,11 @@ id,question_id,answer_text_de,answer_text_en,answer_text_dari,answer_text_pashto
 814,204,Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.,The current five eastern federal states have joined the Federal Republic of Germany.,پنج ایالت فدرال شرقی فعلی به جمهوری فدرال آلمان پیوستند.,اوسنۍ پنځه ختیځ وفاقي ایالتونو د جرمني وفاقي جمهوریت سره یوځ,1
 815,204,Die westlichen Bundesländer sind der DDR beigetreten.,The western states have joined the GDR.,کشورهای غربی به GDR پیوستند.,لویدیځ ایالتونو د جی ڈی آر سره یوځای شوي دي.,0
 816,204,Die DDR hat die Bundesrepublik Deutschland besetzt.,The GDR occupied the Federal Republic of Germany.,GDR جمهوری فدرال آلمان را اشغال کرد.,GDR د جرمني وفاقي جمهوریت په اشغال کړه.,0
-817,205,zur Europäischen Union.,to the European Union.,به اتحادیه اروپا,اروپايي اتحاديې ته.,0
+817,205,zur Europäischen Union.,to the European Union.,به اتحادیه اروپا,اروپايي اتحاديې ته.,1
 818,205,zum Warschauer Pakt.,to the Warsaw Pact.,به پیمان ورشو.,د وارسا قرارداد ته.,0
 819,205,zur OPEC.,to OPEC.,به اوپک.,اوپیک ته.,0
 820,205,zur Europäischen Verteidigungsgemeinschaft.,on the European Defence Community.,درباره جامعه دفاع اروپا,د اروپايي دفاعي ټولنې په اړه.,0
-821,206,an berühmte deutsche Politikerinnen und Politiker,to famous German politicians,به سیاستمداران معروف آلمانی,د آلمان مشهور سیاستدانو ته,1
+821,206,an berühmte deutsche Politikerinnen und Politiker,to famous German politicians,به سیاستمداران معروف آلمانی,د آلمان مشهور سیاستدانو ته,0
 822,206,an die Opfer des Nationalsozialismus,to the victims of National Socialism,به قربانیان ناسیونال سوسیالیسم,د ملي سوسیالیزم قربانیانو ته,1
 823,206,an Verkehrstote,for road deaths,برای مرگ های جاده ای,د سړک د مړو لپاره,0
 824,206,an bekannte jüdische Musiker,to well-known Jewish musicians,به نوازندگان معروف یهودی,مشهور یهودی موسیقانو ته,0

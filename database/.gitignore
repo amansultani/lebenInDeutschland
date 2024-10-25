@@ -1,2 +1,2 @@
 *.sqlite*
-/data
+/seeders/data

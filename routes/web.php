@@ -17,5 +17,3 @@ Route::post('/change-language', [App\Http\Controllers\LanguageController::class,
 
 Route::get('/test', [TestController::class, 'showBundeslandList'])->name('test.list');
 Route::get('/test/start/{bundesland}', [TestController::class, 'startTest'])->name('test.start');
-Route::post('/test/submit', [TestController::class, 'submitAnswer'])->name('test.submit');
-Route::get('/test/review', [TestController::class, 'reviewTest'])->name('test.review');

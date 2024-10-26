@@ -1,7 +1,12 @@
 import axios from 'axios';
+import Alpine from 'alpinejs'
 window.axios = axios;
 
 window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
+
+window.Alpine = Alpine
+ 
+Alpine.start()
 
 //the following script is used to open and close the menu in mobile view (small display)
 document.addEventListener('DOMContentLoaded', function() {

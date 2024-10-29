@@ -3,7 +3,7 @@
         visibility: true,
         question_counter: 0
     }" class="container mx-auto mt-5">
-        <h1 class="text-xl font-bold text-center mb-6">{{ $bundesland }} State Test</h1>
+        <h1 class="text-xl font-bold text-center mb-6">Landesprüfung {{ $bundesland }}</h1>
         @foreach ($questions as $index => $question)
             <div class="flex items-center justify-center mb-6" :class="{ 'hidden': !visibility }">
                 <div
@@ -65,9 +65,9 @@
                 <h2 class="   text-slate-800 text-2xl mb-4">Result </h2>
                 <p class="mb-6"><strong x-text= "question_counter"></strong> / 33 </p>
                 <a class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 type="submit"
-                    href="{{ route('test.start', $bundesland) }}">Retake Test</a>
+                    href="{{ route('test.start', $bundesland) }}">Neuen Test Starten</a>
                     <a class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800 type="submit"
-                    href="{{ route('test.list') }}">Home</a>
+                    href="{{ route('questions.index') }}">Alle Fragen mit Antworten</a>
             </div>
         </div>
     </div>

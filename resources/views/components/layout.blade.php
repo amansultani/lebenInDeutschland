@@ -11,10 +11,11 @@
 
 <body class="mx-auto max-w-6xl flex flex-col min-h-screen pt-8">
     <x-header />
-    <div class="mt-20">
+    <div class="flex-grow mt-20">
         {{ $slot }}
     </div>
-    <x-footer />
+    <x-footer class="w-full" />
 </body>
+
 
 </html>

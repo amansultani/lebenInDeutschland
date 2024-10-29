@@ -15,7 +15,10 @@ Route::get('category', function () {
 })->name('category');
 
 Route::resource('questions',QuestionController::class)->only(['index']);
-Route::post('/change-language', [App\Http\Controllers\LanguageController::class, 'changeLanguage'])->name('change.language');
+
+Route::middleware(['web'])->group(function () {
+    Route::post('/change-language', [App\Http\Controllers\LanguageController::class, 'changeLanguage'])->name('change.language');
+});
 
 Route::get('/test', [TestController::class, 'showBundeslandList'])->name('test.list');
 Route::get('/test/start/{bundesland}', [TestController::class, 'startTest'])->name('test.start');

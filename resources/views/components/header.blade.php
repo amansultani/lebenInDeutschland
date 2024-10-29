@@ -1,9 +1,9 @@
 <header class="fixed inset-x-0 top-0 z-50 bg-white">
     <nav class="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
         <div class="flex lg:flex-1">
-            <a href="#" class="-m-1.5 p-1.5">
-                <span class="sr-only">Your Company</span>
-                <img class="h-10 w-auto" src="logo.png" alt="">
+            <a href="{{route('home')}}" class="-m-1.5 p-1.5">
+                <span class="sr-only">Leben In Deutschland</span>
+                <img class="h-10 w-auto" src="{{ asset('logo.png') }}" alt="">
             </a>
         </div>
         <div class="flex lg:hidden">

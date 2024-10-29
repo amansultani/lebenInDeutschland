@@ -25,6 +25,7 @@ class QuestionController extends Controller
         // Apply the appropriate filters
         if ($state === 'general') {
             $questionsQuery->byCategory('general'); 
+            $state = "Deutschland 300 Fragen";
         } elseif ($state) {
             $questionsQuery->byState($state); 
         }
@@ -38,53 +39,5 @@ class QuestionController extends Controller
             'translation' =>app()->getLocale(),
         ]);
     
-    }
-
-    /**
-     * Show the form for creating a new resource.
-     */
-    public function create()
-    {
-        //
-    }
-
-    /**
-     * Store a newly created resource in storage.
-     */
-    public function store(Request $request)
-    {
-        //
-    }
-
-    /**
-     * Display the specified resource.
-     */
-    public function show(string $id)
-    {
-        //
-    }
-
-    /**
-     * Show the form for editing the specified resource.
-     */
-    public function edit(string $id)
-    {
-        //
-    }
-
-    /**
-     * Update the specified resource in storage.
-     */
-    public function update(Request $request, string $id)
-    {
-        //
-    }
-
-    /**
-     * Remove the specified resource from storage.
-     */
-    public function destroy(string $id)
-    {
-        //
     }
 }

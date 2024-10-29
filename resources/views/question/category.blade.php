@@ -7,7 +7,7 @@
                     <a href="{{ route('questions.index', ['state' => 'general']) }}">
                         <div class="bg-white p-4 rounded-lg shadow-lg hover:shadow-xl hover:bg-gray-50 transition-shadow duration-300 flex items-center">
                             <!-- Image beside the text -->
-                            <img src="{{ asset('bundeslander_logos/deutschland.png') }}" alt="Deutschland flag" class="w-12 h-12 mr-4">
+                            <img src="{{ asset('bundeslander_logos/Deutschland.png') }}" alt="Deutschland flag" class="w-12 h-12 mr-4">
                             <div>
                                 <p class="mt-2 text-gray-800 text-lg">Deutschland</p>
                                 <p class="mt-1 text-gray-600">Alle 300 Fragen mit Antworten</p>

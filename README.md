@@ -1,66 +1,76 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# Leben in Deutschland - Citizen Test Application
 
-## About Laravel
+Leben in Deutschland is a comprehensive, multilingual citizen test application built using Laravel. The application covers all questions required for the German citizenship test, including questions for each Bundesland (state) as well as the 300 general questions applicable to all candidates. This project is part of my portfolio and demonstrates my skills in Laravel, localization, and full-stack web development.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Features
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- **Bundesland-Specific Tests**: Access specific tests for each Bundesland, including localized questions for more personalized study.
+- **Complete Question Database**: Includes all 300 official general questions for the citizenship test, with additional state-specific questions.
+- **Localization Support**: Questions and answers are available in multiple languages — German, Dari, Pashto, and English — translated using AWS Translation Services.
+- **Test Results**: Start tests, answer questions, and view results instantly.
+- **Interactive Front-End**: Designed using Alpine.js and Tailwind CSS for a responsive and interactive user experience.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Tech Stack
 
-## Learning Laravel
+- **Backend**: Laravel (Models, Scopes, Session Management)
+- **Frontend**: Blade Templates, Alpine.js, Tailwind CSS
+- **Localization**: AWS Translation Services for multilingual support
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Installation
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+To install and run the project locally, follow these steps:
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/lebenInDeutschland.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd lebenInDeutschland
+   ```
+3. Install dependencies:
+   ```bash
+   composer install
+   npm install && npm run dev
+   ```
+4. Set up the `.env` file:
+   - Configure your database connection settings.
+   - If you would like to have the data file contact me in person, I will provide the CSV file for questions and Answers
+5. Run database migrations:
+   ```bash
+   php artisan migrate --seed
+   ```
+6. Start the development server:
+   ```bash
+   php artisan serve
+   ```
 
-## Laravel Sponsors
+## Usage
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+1. Access the application at `http://localhost:8000`.
+2. Choose your preferred language.
+3. Select a Bundesland or General test to begin.
+4. Complete the test and view your results.
 
-### Premium Partners
+## Project Structure
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+- `app/Models` - Contains all Eloquent models.
+- `resources/views` - Contains Blade templates for frontend views.
+- `routes/web.php` - Defines application routes.
+- `public/js` - Contains Alpine.js components.
+- `resources/lang` - Houses localization files for supported languages.
 
-## Contributing
+## Screenshots
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+(Include screenshots here if available)
 
-## Code of Conduct
+## Future Enhancements
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- Add support for more languages.
+- Enhance the UI with advanced animations and transitions.
+- Integrate user accounts and progress tracking.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This project is licensed under the MIT License.
